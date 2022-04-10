@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xmlns="http://purl.org/rss/1.0/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://web.resource.org/cc/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/">
+  <channel rdf:about="http://pinboard.in">
+    <title>Pinboard (nimdaghlian)</title>
+    <link>https://pinboard.in/u:nimdaghlian/</link>
+    <description>recent bookmarks from nimdaghlian</description>
+    <items>
+      <rdf:Seq>	<rdf:li rdf:resource="https://www.media.mit.edu/projects/2d-an-exploration-of-drawing-as-programming-language-featuring-ideas-from-lambda-calculus/overview/"/>
+	<rdf:li rdf:resource="https://victoriagitman.org/selected-paintings"/>
+	<rdf:li rdf:resource="https://mattress.org/works/untitled-4/"/>
+	<rdf:li rdf:resource="https://hoaxpublication.org/works/oliver-offord-mountain-energy"/>
+	<rdf:li rdf:resource="https://publicdomainreview.org/collection/hamonshu-a-japanese-book-of-wave-and-ripple-designs-1903"/>
+	<rdf:li rdf:resource="https://americanindian.si.edu/exhibitions/infinityofnations/california-greatbasin/230132.html"/>
+	<rdf:li rdf:resource="https://peakd.com/hive-177949/@kaliyuga/kaliyugas-library-of-ai-google-colab-notebooks"/>
+	<rdf:li rdf:resource="https://www.theverge.com/22935074/hundred-rabbits-uxn-roms-preservation"/>
+	<rdf:li rdf:resource="https://compform.net/"/>
+	<rdf:li rdf:resource="http://www.ernestooroza.com/"/>
+	<rdf:li rdf:resource="https://preparationoftheartwork.wordpress.com/integratedstudio/"/>
+	<rdf:li rdf:resource="https://www.washingtonpost.com/lifestyle/2022/01/31/library-book-idaho-dillon-helbig/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWJpZCI6IjM1MTIwNzEiLCJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNjQzNzMyMTc2LCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNjQ0OTQxNzc2LCJpYXQiOjE2NDM3MzIxNzYsImp0aSI6IjIzMmE3ZWVmLTQxNmEtNDE1MS1iMDgyLWRiZjJjN2QzZDBlYSIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9saWZlc3R5bGUvMjAyMi8wMS8zMS9saWJyYXJ5LWJvb2staWRhaG8tZGlsbG9uLWhlbGJpZy8ifQ._ylQBRnA92UPea8PS7gcs01vjZk9wEHnuNCAh_I_aUI"/>
+	<rdf:li rdf:resource="https://www.thisiscolossal.com/2022/01/steffen-dam-glass-specimens/"/>
+	<rdf:li rdf:resource="https://hyperallergic.com/542624/find-your-astrological-demon-in-this-rare-guide-on-persian-mysticism/"/>
+	<rdf:li rdf:resource="https://www.sito.org/synergy/artzurk/world.png"/>
+	<rdf:li rdf:resource="https://archive.org/details/morpho-simplified-forms-anatomy-for-artists/page/n19/mode/2up"/>
+	<rdf:li rdf:resource="https://www.dropbox.com/s/aezt2ne8f6nnxs9/C0%20%20Introduction%20to%20the%20lectures.mp4?dl=0"/>
+	<rdf:li rdf:resource="https://www.ampled.com/artist/community"/>
+	<rdf:li rdf:resource="https://thatcreativecode.page"/>
+	<rdf:li rdf:resource="https://www.italianways.com/santa-maria-presso-san-satiro-and-bramantes-perspective/"/>
+	<rdf:li rdf:resource="https://www.irishtimes.com/culture/art-and-design/visual-art/after-nearly-three-centuries-a-naked-cupid-surfaces-in-one-of-the-world-s-best-loved-artworks-1.4672469"/>
+	<rdf:li rdf:resource="https://thebaffler.com/salvos/against-artsploitation-kopel"/>
+	<rdf:li rdf:resource="https://hyperallergic.com/674112/the-18th-century-english-craze-for-one-eyed-portraits/"/>
+	<rdf:li rdf:resource="https://publicdomainreview.org/collection/the-cubies-abc-1913"/>
+	<rdf:li rdf:resource="https://colab.research.google.com/drive/1n_xrgKDlGQcCF6O-eL3NOd_x4NSqAUjK#scrollTo=TnMw4FrN6JeB"/>
+	<rdf:li rdf:resource="https://www.robineley.com/"/>
+	<rdf:li rdf:resource="http://www.thing.net/~lilyvac/pages/artwork/Painting%202/B7.html"/>
+	<rdf:li rdf:resource="https://openspace.sfmoma.org/2017/10/dioramas/"/>
+	<rdf:li rdf:resource="https://pioneerworks.org/broadcast/what-color-the-future-rahel-aima"/>
+	<rdf:li rdf:resource="https://www.spectator.co.uk/article/the-rise-of-bad-figurative-painting"/>
+	<rdf:li rdf:resource="https://contemporaryartdaily.com/2021/02/trevor-shimizu-at-misako-rosen-2/xlarge-ee3d29adf021913f7c9cd095e25933eb-jpg/"/>
+	<rdf:li rdf:resource="https://ddvm.org/gallery-architecture/"/>
+	<rdf:li rdf:resource="https://www.artmaterialsonline.com/journals-notebooks/kunst-and-papier-binderboard-sketchbooks/"/>
+	<rdf:li rdf:resource="http://luckysoap.com/"/>
+	<rdf:li rdf:resource="http://writingcoastlines.net/"/>
+	<rdf:li rdf:resource="https://hyperallergic.com/621862/knausgaard-in-the-land-of-the-cyclops/"/>
+	<rdf:li rdf:resource="http://m-city.org/"/>
+	<rdf:li rdf:resource="https://www.flickr.com/photos/32610318@N06/4764722700/in/album-72157624427542886/"/>
+	<rdf:li rdf:resource="https://hyperallergic.com/601623/introducing-the-black-painters-academy-a-new-school-dedicated-to-black-art-history/"/>
+	<rdf:li rdf:resource="https://www.reed.edu/german/mieszkowski/"/>
+	<rdf:li rdf:resource="https://bookshop.org/books/watercolor-a-history/9780789213730"/>
+	<rdf:li rdf:resource="https://www.pennymichel.com/"/>
+	<rdf:li rdf:resource="https://www.applebystudios.com/"/>
+	<rdf:li rdf:resource="https://www.brainpickings.org/2018/09/20/beasts-of-india/?fbclid=IwAR3FQ4FwESI_tq3t2-WqQURgheuvWvVVEWsOgEVY1pwQ8TXRGCfWVXpcKrM"/>
+	<rdf:li rdf:resource="http://inhalemag.com/surreal-art-ruth-marten/"/>
+	<rdf:li rdf:resource="https://www.songco.org/"/>
+	<rdf:li rdf:resource="http://hyper-resolution.org/view.html?pointer=0.396,0.127&amp;r=0.0000,0.1699,1.0000,0.6446&amp;i=Rijksmuseum/SK-C-5/SK-C-5_VIS_20-um_2019-12-21"/>
+	<rdf:li rdf:resource="https://www.twocoatsofpaint.com/wp-content/uploads/2020/04/Night-Fridge-milk-820x1024.jpg"/>
+	<rdf:li rdf:resource="https://www.nytimes.com/2020/03/13/arts/design/black-portraits-dutch-golden-age.html"/>
+	<rdf:li rdf:resource="https://hyperallergic.com/543203/a-sudanese-printmaker-radiates-light-from-darkness/"/>
+	<rdf:li rdf:resource="https://catapult.co/stories/family-history-secrets-found-in-grandmothers-embroidery-column-by-lauren-alwan"/>
+	<rdf:li rdf:resource="https://twitter.com/Oniropolis/status/1210698030476922881"/>
+	<rdf:li rdf:resource="https://hyperallergic.com/495964/how-to-protest-art-2/"/>
+	<rdf:li rdf:resource="https://www.theparisreview.org/blog/2019/09/23/whats-the-point/"/>
+	<rdf:li rdf:resource="https://momus.ca/how-to-be-an-unprofessional-artist/"/>
+	<rdf:li rdf:resource="https://www.masterworks.io/"/>
+	<rdf:li rdf:resource="https://en.wikipedia.org/wiki/Charles_Pears"/>
+	<rdf:li rdf:resource="https://solarsystem.nasa.gov/resources/693/first-tv-image-of-mars-hand-colored/"/>
+	<rdf:li rdf:resource="https://www.thenational.ae/arts-culture/art/the-hidden-cost-of-being-at-the-venice-biennale-1.862971"/>
+	<rdf:li rdf:resource="http://jorindevoigt.com/blog/category/concepts/"/>
+	<rdf:li rdf:resource="https://www.artsy.net/article/gucwa-vivienne-what-makes-oil-paintings-to-be-the"/>
+	<rdf:li rdf:resource="https://www.brooklynmuseum.org/opencollection/objects/218233"/>
+	<rdf:li rdf:resource="https://hyperallergic.com/490654/why-art-colleges-and-universities-should-not-act-like-for-profit-galleries/"/>
+	<rdf:li rdf:resource="https://www.watercolourworld.org/"/>
+	<rdf:li rdf:resource="https://hyperallergic.com/483252/david-rabinowitch-perigord-construction-of-vision-drawings-peter-blum-gallery/"/>
+	<rdf:li rdf:resource="https://hyperallergic.com/481704/a-writer-of-our-time-the-life-and-work-of-john-berger-joshua-sperling/"/>
+	<rdf:li rdf:resource="https://slate.com/culture/2019/01/transgressive-art-political-correctness-vanessa-place-louis-ck-hannah-gadsby.html"/>
+	<rdf:li rdf:resource="https://hyperallergic.com/475761/soul-of-a-nation-brooklyn-museum/"/>
+	<rdf:li rdf:resource="https://hyperallergic.com/469421/gaylen-gerber-supports-arts-club-of-chicago/"/>
+	<rdf:li rdf:resource="http://garethlong.net/dictionaryJacket/dictionaryJacket.html"/>
+      </rdf:Seq>
+    </items>
+  </channel><item rdf:about="https://www.media.mit.edu/projects/2d-an-exploration-of-drawing-as-programming-language-featuring-ideas-from-lambda-calculus/overview/">
+    <title>[toread] Overview ‹ λ-2D: An Exploration of Drawing as Programming Language, Featuring Ideas from Lambda Calculus — MIT Media Lab</title>
+    <dc:date>2022-04-09T20:11:41+00:00</dc:date>
+    <link>https://www.media.mit.edu/projects/2d-an-exploration-of-drawing-as-programming-language-featuring-ideas-from-lambda-calculus/overview/</link>
+    <dc:creator>nimdaghlian</dc:creator><dc:subject>programming drawing art language lambda via:popular</dc:subject>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:dffd3d8cc7a2/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:programming"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:drawing"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:language"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:lambda"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:via:popular"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://victoriagitman.org/selected-paintings">
+    <title>Selected Paintings — Victoria Gitman</title>
+    <dc:date>2022-04-08T00:43:51+00:00</dc:date>
+    <link>https://victoriagitman.org/selected-paintings</link>
+    <dc:creator>nimdaghlian</dc:creator><description><![CDATA[https://images.squarespace-cdn.com/content/v1/59172b24725e254491524c85/1578757233362-4PM5VIT4C4HX0UCOI2P1/10-Untitled.jpg?format=2500w]]></description>
+<dc:subject>painting art</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:7b6a1f77f22c/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:painting"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://mattress.org/works/untitled-4/">
+    <title>Untitled - Mattress Factory</title>
+    <dc:date>2022-04-04T21:11:56+00:00</dc:date>
+    <link>https://mattress.org/works/untitled-4/</link>
+    <dc:creator>nimdaghlian</dc:creator><dc:subject>art wow</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:4ac16a886c8c/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:wow"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://hoaxpublication.org/works/oliver-offord-mountain-energy">
+    <title>[toread] Oliver Offord - Mountain Energy - HOAX</title>
+    <dc:date>2022-03-29T23:31:15+00:00</dc:date>
+    <link>https://hoaxpublication.org/works/oliver-offord-mountain-energy</link>
+    <dc:creator>nimdaghlian</dc:creator><dc:subject>art patterns cl</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:78c9c917748a/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:patterns"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:cl"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://publicdomainreview.org/collection/hamonshu-a-japanese-book-of-wave-and-ripple-designs-1903">
+    <title>Hamonshu: A Japanese Book of Wave and Ripple Designs (1903) – The Public Domain Review</title>
+    <dc:date>2022-03-24T14:08:54+00:00</dc:date>
+    <link>https://publicdomainreview.org/collection/hamonshu-a-japanese-book-of-wave-and-ripple-designs-1903</link>
+    <dc:creator>nimdaghlian</dc:creator><dc:subject>blogs art wow cool</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:77f592b46df1/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:blogs"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:wow"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:cool"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://americanindian.si.edu/exhibitions/infinityofnations/california-greatbasin/230132.html">
+    <title>Juana Basilia Sitmelelene coin basket - Infinity of Nations: Art and History in the Collections of the National Museum of the American Indian - George Gustav Heye Center, New York</title>
+    <dc:date>2022-03-24T11:48:14+00:00</dc:date>
+    <link>https://americanindian.si.edu/exhibitions/infinityofnations/california-greatbasin/230132.html</link>
+    <dc:creator>nimdaghlian</dc:creator><dc:subject>wow art history</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:c82d09542969/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:wow"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:history"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://peakd.com/hive-177949/@kaliyuga/kaliyugas-library-of-ai-google-colab-notebooks">
+    <title>KaliYuga's Library of AI Google Colab Notebooks [Updated Mar 11, 2022] | PeakD</title>
+    <dc:date>2022-03-21T11:26:14+00:00</dc:date>
+    <link>https://peakd.com/hive-177949/@kaliyuga/kaliyugas-library-of-ai-google-colab-notebooks</link>
+    <dc:creator>nimdaghlian</dc:creator><dc:subject>AI art</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:9073b561f891/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:AI"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://www.theverge.com/22935074/hundred-rabbits-uxn-roms-preservation">
+    <title>These artists are making tiny ROMs that will probably outlive us all - The Verge</title>
+    <dc:date>2022-03-08T17:39:48+00:00</dc:date>
+    <link>https://www.theverge.com/22935074/hundred-rabbits-uxn-roms-preservation</link>
+    <dc:creator>nimdaghlian</dc:creator><dc:subject>cool art</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:58615f31ce0f/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:cool"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://compform.net/">
+    <title>Hello, Comp Form! | Comp Form</title>
+    <dc:date>2022-03-07T00:25:40+00:00</dc:date>
+    <link>https://compform.net/</link>
+    <dc:creator>nimdaghlian</dc:creator><dc:subject>art music</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:9dc5d3f0adbb/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:music"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://www.ernestooroza.com/">
+    <title>Ernesto Oroza – Architecture of necessity, Technological Disobedience, Moral Modulor, Moire house, Objects of Necessity, Inherent Display, tactical Display, Generic objects, Decorative documentary, documentary object, tactical Interior Design, tactical </title>
+    <dc:date>2022-03-04T21:17:13+00:00</dc:date>
+    <link>http://www.ernestooroza.com/</link>
+    <dc:creator>nimdaghlian</dc:creator><dc:subject>art design inspiration clblog</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:323f4566d5b2/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:design"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:inspiration"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:clblog"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://preparationoftheartwork.wordpress.com/integratedstudio/">
+    <title>Preparation of the Artwork</title>
+    <dc:date>2022-03-01T14:56:13+00:00</dc:date>
+    <link>https://preparationoftheartwork.wordpress.com/integratedstudio/</link>
+    <dc:creator>nimdaghlian</dc:creator><dc:subject>art huh</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:45cd30b18847/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:huh"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://www.washingtonpost.com/lifestyle/2022/01/31/library-book-idaho-dillon-helbig/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWJpZCI6IjM1MTIwNzEiLCJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNjQzNzMyMTc2LCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNjQ0OTQxNzc2LCJpYXQiOjE2NDM3MzIxNzYsImp0aSI6IjIzMmE3ZWVmLTQxNmEtNDE1MS1iMDgyLWRiZjJjN2QzZDBlYSIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9saWZlc3R5bGUvMjAyMi8wMS8zMS9saWJyYXJ5LWJvb2staWRhaG8tZGlsbG9uLWhlbGJpZy8ifQ._ylQBRnA92UPea8PS7gcs01vjZk9wEHnuNCAh_I_aUI">
+    <title>An 8-year-old slid his handwritten book onto a library shelf. It now has a years-long waitlist. - The Washington Post</title>
+    <dc:date>2022-02-23T19:00:17+00:00</dc:date>
+    <link>https://www.washingtonpost.com/lifestyle/2022/01/31/library-book-idaho-dillon-helbig/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWJpZCI6IjM1MTIwNzEiLCJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNjQzNzMyMTc2LCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNjQ0OTQxNzc2LCJpYXQiOjE2NDM3MzIxNzYsImp0aSI6IjIzMmE3ZWVmLTQxNmEtNDE1MS1iMDgyLWRiZjJjN2QzZDBlYSIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9saWZlc3R5bGUvMjAyMi8wMS8zMS9saWJyYXJ5LWJvb2staWRhaG8tZGlsbG9uLWhlbGJpZy8ifQ._ylQBRnA92UPea8PS7gcs01vjZk9wEHnuNCAh_I_aUI</link>
+    <dc:creator>nimdaghlian</dc:creator><dc:subject>aww art books</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:ca667d2e5ba6/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:aww"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:books"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://www.thisiscolossal.com/2022/01/steffen-dam-glass-specimens/">
+    <title>Imaginative Glass Specimens Are Suspended in Jars in Steffen Dam’s Cabinets of Curiosities | Colossal</title>
+    <dc:date>2022-02-12T12:53:57+00:00</dc:date>
+    <link>https://www.thisiscolossal.com/2022/01/steffen-dam-glass-specimens/</link>
+    <dc:creator>nimdaghlian</dc:creator><dc:subject>cool science art</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:fb90377f0827/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:cool"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:science"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://hyperallergic.com/542624/find-your-astrological-demon-in-this-rare-guide-on-persian-mysticism/">
+    <title>Find Your Astrological Demon in This Rare Guide on Persian Mysticism</title>
+    <dc:date>2022-01-24T14:35:36+00:00</dc:date>
+    <link>https://hyperallergic.com/542624/find-your-astrological-demon-in-this-rare-guide-on-persian-mysticism/</link>
+    <dc:creator>nimdaghlian</dc:creator><dc:subject>art wow</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:e68c96324478/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:wow"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://www.sito.org/synergy/artzurk/world.png">
+    <title>world.png 1,024×768 pixels</title>
+    <dc:date>2022-01-24T14:34:44+00:00</dc:date>
+    <link>https://www.sito.org/synergy/artzurk/world.png</link>
+    <dc:creator>nimdaghlian</dc:creator><dc:subject>nimfriends aww art</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:b8518a379078/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:nimfriends"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:aww"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://archive.org/details/morpho-simplified-forms-anatomy-for-artists/page/n19/mode/2up">
+    <title>Morpho: Simplified Forms: Anatomy For Artists (Morpho: Anatomy for Artists) : Michel Lauricella : Free Download, Borrow, and Streaming : Internet Archive</title>
+    <dc:date>2022-01-15T03:30:36+00:00</dc:date>
+    <link>https://archive.org/details/morpho-simplified-forms-anatomy-for-artists/page/n19/mode/2up</link>
+    <dc:creator>nimdaghlian</dc:creator><dc:subject>art tools cool</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:a53b932f89f1/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:tools"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:cool"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://www.dropbox.com/s/aezt2ne8f6nnxs9/C0%20%20Introduction%20to%20the%20lectures.mp4?dl=0">
+    <title>C0 Introduction to the lectures.mp4</title>
+    <dc:date>2021-12-01T12:09:54+00:00</dc:date>
+    <link>https://www.dropbox.com/s/aezt2ne8f6nnxs9/C0%20%20Introduction%20to%20the%20lectures.mp4?dl=0</link>
+    <dc:creator>nimdaghlian</dc:creator><dc:subject>art cool</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:9ce345d3b203/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:cool"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://www.ampled.com/artist/community">
+    <title>AMPLED COMMUNITY | Ampled | Direct Community Support For Music Artists</title>
+    <dc:date>2021-12-01T12:09:02+00:00</dc:date>
+    <link>https://www.ampled.com/artist/community</link>
+    <dc:creator>nimdaghlian</dc:creator><dc:subject>art cool</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:198f95866cfd/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:cool"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://thatcreativecode.page">
+    <title>[untitled]</title>
+    <dc:date>2021-11-02T21:09:32+00:00</dc:date>
+    <link>https://thatcreativecode.page</link>
+    <dc:creator>nimdaghlian</dc:creator><dc:subject>tools art</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:e9de71fbc889/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:tools"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://www.italianways.com/santa-maria-presso-san-satiro-and-bramantes-perspective/">
+    <title>Santa Maria presso San Satiro and Bramante’s perspective - Italian Ways</title>
+    <dc:date>2021-09-23T12:23:39+00:00</dc:date>
+    <link>https://www.italianways.com/santa-maria-presso-san-satiro-and-bramantes-perspective/</link>
+    <dc:creator>nimdaghlian</dc:creator><dc:subject>art painting</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:9cd0fa3e3bb6/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:painting"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://www.irishtimes.com/culture/art-and-design/visual-art/after-nearly-three-centuries-a-naked-cupid-surfaces-in-one-of-the-world-s-best-loved-artworks-1.4672469">
+    <title>After nearly three centuries, a naked Cupid surfaces in one of the world’s best-loved artworks</title>
+    <dc:date>2021-09-23T12:23:25+00:00</dc:date>
+    <link>https://www.irishtimes.com/culture/art-and-design/visual-art/after-nearly-three-centuries-a-naked-cupid-surfaces-in-one-of-the-world-s-best-loved-artworks-1.4672469</link>
+    <dc:creator>nimdaghlian</dc:creator><dc:subject>art</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:a70893257c5a/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://thebaffler.com/salvos/against-artsploitation-kopel">
+    <title>[toread] Against Artsploitation | Dana Kopel</title>
+    <dc:date>2021-09-23T12:22:05+00:00</dc:date>
+    <link>https://thebaffler.com/salvos/against-artsploitation-kopel</link>
+    <dc:creator>nimdaghlian</dc:creator><dc:subject>art</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:1bde16260c0e/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://hyperallergic.com/674112/the-18th-century-english-craze-for-one-eyed-portraits/">
+    <title>The 18th-century English Craze for One-Eyed Portraits</title>
+    <dc:date>2021-09-20T22:18:21+00:00</dc:date>
+    <link>https://hyperallergic.com/674112/the-18th-century-english-craze-for-one-eyed-portraits/</link>
+    <dc:creator>nimdaghlian</dc:creator><dc:subject>art cool wow</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:482365370e2c/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:cool"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:wow"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://publicdomainreview.org/collection/the-cubies-abc-1913">
+    <title>The Cubies’ ABC (1913) – The Public Domain Review</title>
+    <dc:date>2021-09-13T12:32:51+00:00</dc:date>
+    <link>https://publicdomainreview.org/collection/the-cubies-abc-1913</link>
+    <dc:creator>nimdaghlian</dc:creator><dc:subject>ha wow art bao want</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:cf5aeb56565e/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:ha"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:wow"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:bao"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:want"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://colab.research.google.com/drive/1n_xrgKDlGQcCF6O-eL3NOd_x4NSqAUjK#scrollTo=TnMw4FrN6JeB">
+    <title>AI Art Machine - Colaboratory</title>
+    <dc:date>2021-09-09T13:27:19+00:00</dc:date>
+    <link>https://colab.research.google.com/drive/1n_xrgKDlGQcCF6O-eL3NOd_x4NSqAUjK#scrollTo=TnMw4FrN6JeB</link>
+    <dc:creator>nimdaghlian</dc:creator><dc:subject>art wow fun cool</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:344f6ac73f6e/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:wow"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:fun"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:cool"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://www.robineley.com/">
+    <title>Home | robin-eley</title>
+    <dc:date>2021-08-08T16:14:59+00:00</dc:date>
+    <link>https://www.robineley.com/</link>
+    <dc:creator>nimdaghlian</dc:creator><dc:subject>painting art now</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:fd5552db5b1f/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:painting"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:now"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://www.thing.net/~lilyvac/pages/artwork/Painting%202/B7.html">
+    <title>DIKE BLAIR</title>
+    <dc:date>2021-08-05T12:48:50+00:00</dc:date>
+    <link>http://www.thing.net/~lilyvac/pages/artwork/Painting%202/B7.html</link>
+    <dc:creator>nimdaghlian</dc:creator><dc:subject>wow art now</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:759085419f3b/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:wow"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:now"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://openspace.sfmoma.org/2017/10/dioramas/">
+    <title>Dioramas : Open Space</title>
+    <dc:date>2021-08-05T12:34:45+00:00</dc:date>
+    <link>https://openspace.sfmoma.org/2017/10/dioramas/</link>
+    <dc:creator>nimdaghlian</dc:creator><dc:subject>art</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:47d73ac3ef7f/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://pioneerworks.org/broadcast/what-color-the-future-rahel-aima">
+    <title>[toread] What color is the future? | Pioneer Works | 159 Pioneer Street, Red Hook, Brooklyn</title>
+    <dc:date>2021-08-05T12:33:31+00:00</dc:date>
+    <link>https://pioneerworks.org/broadcast/what-color-the-future-rahel-aima</link>
+    <dc:creator>nimdaghlian</dc:creator><dc:subject>art pocket</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:c5c2e6bf627a/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:pocket"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://www.spectator.co.uk/article/the-rise-of-bad-figurative-painting">
+    <title>[toread] The rise of bad figurative painting | The Spectator</title>
+    <dc:date>2021-08-03T23:57:38+00:00</dc:date>
+    <link>https://www.spectator.co.uk/article/the-rise-of-bad-figurative-painting</link>
+    <dc:creator>nimdaghlian</dc:creator><dc:subject>art painting</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:a004facd1559/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:painting"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://contemporaryartdaily.com/2021/02/trevor-shimizu-at-misako-rosen-2/xlarge-ee3d29adf021913f7c9cd095e25933eb-jpg/">
+    <title>Contemporary Art Daily » Blog Archive » xlarge-ee3d29adf021913f7c9cd095e25933eb.jpg</title>
+    <dc:date>2021-02-25T16:19:51+00:00</dc:date>
+    <link>https://contemporaryartdaily.com/2021/02/trevor-shimizu-at-misako-rosen-2/xlarge-ee3d29adf021913f7c9cd095e25933eb-jpg/</link>
+    <dc:creator>nimdaghlian</dc:creator><dc:subject>art</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:d2eeb770b8b6/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://ddvm.org/gallery-architecture/">
+    <title>Gallery - Architecture - Daring Diagonal Virtual Museum</title>
+    <dc:date>2021-02-22T11:27:11+00:00</dc:date>
+    <link>https://ddvm.org/gallery-architecture/</link>
+    <dc:creator>nimdaghlian</dc:creator><dc:subject>art wow bao</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:960732ffd91f/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:wow"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:bao"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://www.artmaterialsonline.com/journals-notebooks/kunst-and-papier-binderboard-sketchbooks/">
+    <title>Kunst &amp; Papier Binderboard Sketchbooks - Art Materials Online</title>
+    <dc:date>2021-02-22T11:26:26+00:00</dc:date>
+    <link>https://www.artmaterialsonline.com/journals-notebooks/kunst-and-papier-binderboard-sketchbooks/</link>
+    <dc:creator>nimdaghlian</dc:creator><dc:subject>want stuff art</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:637068d1ccb7/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:want"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:stuff"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://luckysoap.com/">
+    <title>J. R. Carpenter || Luckysoap &amp; Co.</title>
+    <dc:date>2021-02-22T11:25:48+00:00</dc:date>
+    <link>http://luckysoap.com/</link>
+    <dc:creator>nimdaghlian</dc:creator><dc:subject>art bao</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:a2a20212655e/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:bao"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://writingcoastlines.net/">
+    <title>Writing Coastlines || J. R. Carpenter</title>
+    <dc:date>2021-02-22T11:25:29+00:00</dc:date>
+    <link>http://writingcoastlines.net/</link>
+    <dc:creator>nimdaghlian</dc:creator><dc:subject>art bao</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:3949c65dbf61/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:bao"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://hyperallergic.com/621862/knausgaard-in-the-land-of-the-cyclops/">
+    <title>[toread] In Knausgaard’s Essays on Art, No Thought Goes Unexamined</title>
+    <dc:date>2021-02-21T11:10:35+00:00</dc:date>
+    <link>https://hyperallergic.com/621862/knausgaard-in-the-land-of-the-cyclops/</link>
+    <dc:creator>nimdaghlian</dc:creator><dc:subject>art</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:1487fb8b6204/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://m-city.org/">
+    <title>m-city.org – Mariusz Waras</title>
+    <dc:date>2021-02-11T15:21:03+00:00</dc:date>
+    <link>http://m-city.org/</link>
+    <dc:creator>nimdaghlian</dc:creator><dc:subject>art internet</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:88c3810fea54/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:internet"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://www.flickr.com/photos/32610318@N06/4764722700/in/album-72157624427542886/">
+    <title>Nakupujeme 65% zemědělskě produkce | Translations welcome! | Flickr</title>
+    <dc:date>2021-02-11T15:20:15+00:00</dc:date>
+    <link>https://www.flickr.com/photos/32610318@N06/4764722700/in/album-72157624427542886/</link>
+    <dc:creator>nimdaghlian</dc:creator><dc:subject>design bao art</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:7c15686459a3/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:design"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:bao"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://hyperallergic.com/601623/introducing-the-black-painters-academy-a-new-school-dedicated-to-black-art-history/">
+    <title>Introducing the Black Painters Academy, a New School Dedicated to Black Art History</title>
+    <dc:date>2021-01-06T22:36:34+00:00</dc:date>
+    <link>https://hyperallergic.com/601623/introducing-the-black-painters-academy-a-new-school-dedicated-to-black-art-history/</link>
+    <dc:creator>nimdaghlian</dc:creator><dc:subject>art cool</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:c1c2804cd2c1/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:cool"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://www.reed.edu/german/mieszkowski/">
+    <title>Reed College | Jan Mieszkowski | Home</title>
+    <dc:date>2020-12-08T22:17:09+00:00</dc:date>
+    <link>https://www.reed.edu/german/mieszkowski/</link>
+    <dc:creator>nimdaghlian</dc:creator><dc:subject>cool art wow</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:7461aa768e39/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:cool"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:wow"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://bookshop.org/books/watercolor-a-history/9780789213730">
+    <title>Watercolor: A History</title>
+    <dc:date>2020-11-12T12:50:12+00:00</dc:date>
+    <link>https://bookshop.org/books/watercolor-a-history/9780789213730</link>
+    <dc:creator>nimdaghlian</dc:creator><dc:subject>want art</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:26249e0ef1fc/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:want"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://www.pennymichel.com/">
+    <title>pennymichel.com</title>
+    <dc:date>2020-07-24T22:54:23+00:00</dc:date>
+    <link>https://www.pennymichel.com/</link>
+    <dc:creator>nimdaghlian</dc:creator><description><![CDATA[i think this person was in the "I like your work" exhibition]]></description>
+<dc:subject>art</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:aecdf49920ca/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://www.applebystudios.com/">
+    <title>Anne Appleby</title>
+    <dc:date>2020-07-24T22:35:33+00:00</dc:date>
+    <link>https://www.applebystudios.com/</link>
+    <dc:creator>nimdaghlian</dc:creator><dc:subject>art</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:eea49894bb1b/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://www.brainpickings.org/2018/09/20/beasts-of-india/?fbclid=IwAR3FQ4FwESI_tq3t2-WqQURgheuvWvVVEWsOgEVY1pwQ8TXRGCfWVXpcKrM">
+    <title>Beasts of India: Stunning Illustrations of Indigenous Animals Depicted in Various Tribal Art Traditions – Brain Pickings</title>
+    <dc:date>2020-07-24T22:30:59+00:00</dc:date>
+    <link>https://www.brainpickings.org/2018/09/20/beasts-of-india/?fbclid=IwAR3FQ4FwESI_tq3t2-WqQURgheuvWvVVEWsOgEVY1pwQ8TXRGCfWVXpcKrM</link>
+    <dc:creator>nimdaghlian</dc:creator><dc:subject>art bao</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:35cfcca9d980/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:bao"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://inhalemag.com/surreal-art-ruth-marten/">
+    <title>INHALE MAG THE SURREAL ART OF RUTH MARTEN » INHALE MAG</title>
+    <dc:date>2020-07-24T22:27:11+00:00</dc:date>
+    <link>http://inhalemag.com/surreal-art-ruth-marten/</link>
+    <dc:creator>nimdaghlian</dc:creator><dc:subject>ha art</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:7db36e3cf1d6/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:ha"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://www.songco.org/">
+    <title>Jeffrey Augustine Songco</title>
+    <dc:date>2020-06-14T00:38:55+00:00</dc:date>
+    <link>https://www.songco.org/</link>
+    <dc:creator>nimdaghlian</dc:creator><dc:subject>art</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:b6f618eefda0/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="http://hyper-resolution.org/view.html?pointer=0.396,0.127&amp;r=0.0000,0.1699,1.0000,0.6446&amp;i=Rijksmuseum/SK-C-5/SK-C-5_VIS_20-um_2019-12-21">
+    <title>Multimode Image Viewer</title>
+    <dc:date>2020-06-08T18:39:34+00:00</dc:date>
+    <link>http://hyper-resolution.org/view.html?pointer=0.396,0.127&amp;r=0.0000,0.1699,1.0000,0.6446&amp;i=Rijksmuseum/SK-C-5/SK-C-5_VIS_20-um_2019-12-21</link>
+    <dc:creator>nimdaghlian</dc:creator><dc:subject>art wow</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:0a171d5bd8db/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:wow"/>
+</rdf:Bag></taxo:topics>
+</item>
+<item rdf:about="https://www.twocoatsofpaint.com/wp-content/uploads/2020/04/Night-Fridge-milk-820x1024.jpg">
+    <title>Night-Fridge-milk-820x1024.jpg (820×1024)</title>
+    <dc:date>2020-05-07T06:07:52+00:00</dc:date>
+    <link>https://www.twocoatsofpaint.com/wp-content/uploads/2020/04/Night-Fridge-milk-820x1024.jpg</link>
+    <dc:creator>nimdaghlian</dc:creator><dc:subject>painting art</dc:subject>
+<dc:source>https://pinboard.in/</dc:source>
+<dc:identifier>https://pinboard.in/u:nimdaghlian/b:36629966bae7/</dc:identifier>
+<taxo:topics><rdf:Bag>	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:painting"/>
+	<rdf:li rdf:resource="https://pinboard.in/u:nimdaghlian/t:art"/>
+</rdf:Bag></taxo:topics>

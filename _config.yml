@@ -32,7 +32,10 @@ sass:
 collections:
   notes:
     output: true
-    permalink: /:slug
+    permalink: /note/:slug
+  butts:
+    output: true
+    permalink: butts/:slug
 
 defaults:
   - scope:
@@ -43,3 +46,8 @@ defaults:
       path: "_notes/**/*.md"
     values:
       layout: "note"
+  - scope:
+      path: "_butts/**/*.md"
+    values:
+      layout: "note"
+      butttype: "cool"
