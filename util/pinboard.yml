@@ -1,0 +1,9 @@
+- name: Nim Ha
+  feed: https://feeds.pinboard.in/rss/secret:b033bb0b394dfb0e3cb3/u:nimdaghlian/t:ha/
+  bucket: bookmarks
+- name: Nim Covid
+  feed: https://feeds.pinboard.in/rss/secret:b033bb0b394dfb0e3cb3/u:nimdaghlian/t:covid/
+  bucket: bookmarks
+- name: APOD
+  feed: https://apod.nasa.gov/apod.rss
+  bucket: feeds

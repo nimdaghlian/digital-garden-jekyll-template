@@ -19,15 +19,16 @@ feed.each do |feeditem|
 		this_output += "#{bucket}/"
 			unless File.exists?(this_output)
 				Dir.mkdir(this_output)
-				indexname = "#{output_location}buckets/#{bucket}.md"
+			end
+			indexname = "#{output_location}buckets/#{bucket}.md"
 				unless File.exist?(indexname)
 					newindex = File.new(indexname, "w+")
 					newindex.puts "---"
 					newindex.puts "title: #{bucket} Bucket"
 					newindex.puts "layout: garden"
 					newindex.puts "---"
+					newindex.close
 				end
-			end
 	end
 
 	rss = FeedNormalizer::FeedNormalizer.parse URI.open(feed_url)
@@ -43,7 +44,6 @@ feed.each do |feeditem|
 		updated = entry.last_updated
 		date = updated if date.nil?
 		date = dateadded if date.nil?
-
 		filename = "#{this_output}#{title.to_slug.sub(/-\Z/,"")}.md"
 		description = Sanitize.fragment(entry.description)
 		if File.exist?(filename)
@@ -58,9 +58,9 @@ feed.each do |feeditem|
 			file.puts "link: \"#{entry_url}\""
 			file.puts "bucket: #{bucket}"
 			file.puts "layout: urlnote"
-			file.puts "excerpt_separator: <!-- excerpt-end -->"
+			# file.puts "categories: #{categories}"
 			file.puts "--- \n"
-			file.puts " <!-- excerpt-end -->[[#{bucket}|buckets/#{bucket}]]"
+			file.puts " <!-- end excerpt --> \n [[#{bucket}|buckets/#{bucket}]]"
 			file.close
 		end
 	end
