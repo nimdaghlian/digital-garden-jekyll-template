@@ -5,11 +5,13 @@ require 'yaml'
 require 'to_slug'
 
 
- feed_file = "pinboard.yml"
- output_location = "../_notes/"
 
- feed = YAML.load_file(feed_file)
+ config = YAML.load_file('_config.yml')
+ feed = config["feeds"]
+ output_location = "_notes/"
+
  feed.each do |feeditem|
+
   feed_url = feeditem["feed"]
   name = feeditem["name"]
  	bucket = feeditem["bucket"]
