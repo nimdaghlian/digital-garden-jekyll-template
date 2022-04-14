@@ -15,21 +15,25 @@ require 'to_slug'
   feed_url = feeditem["feed"]
   name = feeditem["name"]
  	bucket = feeditem["bucket"]
+  if feeditem["tags"]
+    globaltag = feeditem["tags"]
+  else
+    globaltag = []
+  end
  	this_output = output_location
  	if bucket
-    p bucket
  		this_output += "#{bucket}/"
  			unless File.exists?(this_output)
  				Dir.mkdir(this_output)
- 				indexname = "#{output_location}buckets/#{bucket}.md"
- 				unless File.exists?(indexname)
- 					newindex = File.new(indexname, "w+")
- 					newindex.puts "---"
- 					newindex.puts "title: #{bucket} Bucket"
- 					newindex.puts "layout: garden"
- 					newindex.puts "---"
- 				end
- 			end
+      end
+ 			indexname = "#{output_location}buckets/#{bucket}.md"
+ 			unless File.exists?(indexname)
+				newindex = File.new(indexname, "w+")
+				newindex.puts "---"
+				newindex.puts "title: #{bucket} Bucket"
+				newindex.puts "layout: garden"
+				newindex.puts "---"
+			end
  	end
 
    URI.open(feed_url) do |rss|
@@ -38,9 +42,9 @@ require 'to_slug'
      feed.items.each do |item|
        # puts "Item: #{item.title}"
        title = item.title.encode('utf-8', :invalid => :replace, :undef => :replace, :replace => '-')
-       categories = []
+       tags = globaltag
        if item.dc_subject
-         categories = item.dc_subject.split(" ")
+         tags += item.dc_subject.split(" ")
        end
        description = "No Description"
        if item.description
@@ -62,12 +66,14 @@ require 'to_slug'
    			file.puts "link: \"#{entry_url}\""
    			file.puts "bucket: #{bucket}"
    			file.puts "layout: urlnote"
-   			file.puts "categories: #{categories}"
+   			file.puts "tags: #{tags}"
    			file.puts "--- \n"
         file.puts description
-   			file.puts " <!-- end excerpt --> \n [[#{bucket}|buckets/#{bucket}]]"
+   			file.puts " <!-- end excerpt --> \n"
+        file.puts "<div class='bucket'>[[#{bucket}|buckets/#{bucket}]]</div> \n"
    			file.close
    		end
      end
+     p "#{name} feed updated in #{bucket}"
    end
 end

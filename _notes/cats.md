@@ -2,7 +2,7 @@
 title: A note about cats
 ---
 
-This is a second note with a poem with cats. 
+This is a second note with a poem with cats.
 
 Here's a link to a note that explains why it's important to [[move your body every day]].
 
@@ -15,6 +15,8 @@ Here's a link to a note that explains why it's important to [[move your body eve
 > but a box is best when I want to think.
 
 You can create as many notes as you want.
+
+[[Gibbon crossing a bridge]]
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur et risus at ipsum pharetra pellentesque vel in massa. Nam ornare, velit sed pulvinar gravida, justo ipsum eleifend augue, id porta velit eros vestibulum odio. Vestibulum dignissim malesuada sapien, eu volutpat lacus pellentesque et. Curabitur dui nisi, sagittis ut tempor ac, scelerisque in diam. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum vitae euismod ex. Morbi lacinia iaculis tempor.
 

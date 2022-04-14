@@ -49,6 +49,8 @@ GEM
       jekyll (>= 3.7, < 5.0)
       sinatra (~> 1.4)
       sinatra-contrib (~> 1.4)
+    jekyll-archives (2.2.1)
+      jekyll (>= 3.6, < 5.0)
     jekyll-import (0.21.0)
       jekyll (>= 3.7, < 5.0)
       nokogiri (~> 1.0)
@@ -125,6 +127,7 @@ DEPENDENCIES
   feed-normalizer
   jekyll (~> 4.0)
   jekyll-admin
+  jekyll-archives
   jekyll-import
   jekyll-last-modified-at!
   nokogiri

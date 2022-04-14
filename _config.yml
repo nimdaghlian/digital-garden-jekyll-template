@@ -25,36 +25,49 @@ excerpt_separator: <!-- end excerpt -->
 
 plugins:
   - jekyll-last-modified-at
+  - jekyll-admin
 
 sass:
   sass_dir:          _sass
   style:            :compressed
 
 collections:
-  - notes:
-      output: true
-      permalink: /:path/:slug
+  notes:
+    output: true
+    permalink: /:path/:slug
 
 exclude:
-    - getfeeds.rb
+  - getfeeds.rb
+  - util
 
 defaults:
-  - scope:
+  -
+    scope:
       path: "**/*"
     values:
       layout: "default"
-  - scope:
+  -
+    scope:
       path: "_notes/**/*.md"
     values:
       layout: "note"
+      tags: []
+      bucket: note
 
-  feeds:
-    - name: Nim Ha
-      feed: https://feeds.pinboard.in/rss/secret:b033bb0b394dfb0e3cb3/u:nimdaghlian/t:ha/
-      bucket: bookmarks
-    - name: Nim Covid
-      feed: https://feeds.pinboard.in/rss/secret:b033bb0b394dfb0e3cb3/u:nimdaghlian/t:covid/
-      bucket: bookmarks
-    - name: APOD
-      feed: https://apod.nasa.gov/apod.rss
-      bucket: feeds
+
+feeds:
+  - name: Nim Ha
+    feed: https://feeds.pinboard.in/rss/secret:b033bb0b394dfb0e3cb3/u:nimdaghlian/t:ha/
+    bucket: bookmarks
+    tags: ["space", "science"]
+  - name: Nim Covid
+    feed: https://feeds.pinboard.in/rss/secret:b033bb0b394dfb0e3cb3/u:nimdaghlian/t:covid/
+    bucket: bookmarks
+  - name: APOD
+    feed: https://apod.nasa.gov/apod.rss
+    bucket: feeds
+    tags: ["space", "science"]
+  - name: PDR
+    feed: https://publicdomainreview.org/rss.xml
+    bucket: feeds
+    tags: ["history"]
