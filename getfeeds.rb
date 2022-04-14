@@ -1,3 +1,4 @@
+require 'rubygems'
 require 'rss'
 require 'open-uri'
 require 'time'
