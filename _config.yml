@@ -38,7 +38,10 @@ sass:
 collections:
   notes:
     output: true
-    permalink: /:path/:slug
+    permalink: /:path
+  feeds:
+    output: true
+    permalink: /:path
 
 
 

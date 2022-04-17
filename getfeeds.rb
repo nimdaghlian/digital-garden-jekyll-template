@@ -9,7 +9,9 @@ require 'to_slug'
 
  config = YAML.load_file('_config.yml')
  feed = config["feeds"]
- output_location = "_notes/"
+ output_location = "_feeds/"
+ notes_location = "_notes/"
+ everytag = []
 
  feed.each do |feeditem|
 
@@ -23,18 +25,26 @@ require 'to_slug'
   end
  	this_output = output_location
  	if bucket
- 		this_output += "#{bucket}/"
- 			unless File.exists?(this_output)
- 				Dir.mkdir(this_output)
+    # make sure the feed pages have somewhere to go
+    this_output += "#{bucket}/"
+    unless File.exists?(this_output)
+      Dir.mkdir(this_output)
+    end
+
+    # make sure the note that links to this bucket hass somewhere to go
+    bucket_notes = "#{notes_location}buckets/"
+			unless File.exists?(bucket_notes)
+				Dir.mkdir(bucket_notes)
       end
- 			indexname = "#{output_location}buckets/#{bucket}.md"
- 			unless File.exists?(indexname)
-				newindex = File.new(indexname, "w+")
-				newindex.puts "---"
-				newindex.puts "title: #{bucket} Bucket"
-				newindex.puts "layout: garden"
-				newindex.puts "---"
-			end
+			indexname = "#{bucket_notes}#{bucket}.md"
+			unless File.exists?(indexname)
+			newindex = File.new(indexname, "w+")
+			newindex.puts "---"
+			newindex.puts "title: #{bucket}"
+			newindex.puts "layout: bucket-garden"
+			newindex.puts "--- \n"
+      newindex.puts "A collection of all the notes and other pages in this garden that are in the #{bucket} bucket."
+		end
  	end
 
    URI.open(feed_url) do |rss|
@@ -47,6 +57,9 @@ require 'to_slug'
        if item.dc_subject
          tags += item.dc_subject.split(" ")
        end
+       tags.each do |tag|
+         everytag.push(tag) unless everytag.include?(tag)
+       end
        description = "No Description"
        if item.description
          description = item.description
@@ -58,7 +71,7 @@ require 'to_slug'
        filename = "#{this_output}#{title.to_slug.sub(/-\Z/,"")}.md"
        if File.exist?(filename)
    			next
-   		else
+   		 else
    			file = File.new(filename, "w+")
    			file.puts "---"
    			file.puts "title: > \n #{title}"
@@ -71,10 +84,27 @@ require 'to_slug'
    			file.puts "--- \n"
         file.puts description
    			file.puts " <!-- end excerpt --> \n"
-        file.puts "<div class='bucket'>[[#{bucket}|buckets/#{bucket}]]</div> \n"
+        file.puts "<div class='bucket'><a class='internal-link' src='#{notes_location}buckets/#{bucket}'>#{bucket}</a></div> \n"
    			file.close
-   		end
+   		 end
      end
      p "#{name} feed updated in #{bucket}"
    end
 end
+# make notes for new tags too. this should defo be cleaned up later
+   everytag.each do |tagpage|
+     tag_output = "#{notes_location}tags/"
+      unless File.exists?(tag_output)
+          Dir.mkdir(tag_output)
+      end
+        indexname = "#{tag_output}#{tagpage}.md"
+        unless File.exists?(indexname)
+        newindex = File.new(indexname, "w+")
+          newindex.puts "---"
+          newindex.puts "title: #{tagpage}"
+          newindex.puts "layout: tag-garden"
+          newindex.puts "--- \n"
+          newindex.puts "A collection of all the notes and other pages in this garden that have the #{tagpage} tag."
+      end
+      p "Handled tag: #{tagpage}"
+  end

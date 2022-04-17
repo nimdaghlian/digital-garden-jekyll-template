@@ -22,33 +22,29 @@ metaanotherthing:
       {% assign t = page.title | downcase %}
       <h3>Feeds</h3>
         {% for post in site.feeds %}
-          {% if post.tags contains t %}
-          <a href="{{ post.url }}" target="_blank" title="{{ post.title }}">{{post.title}}</a>
-          <p>Last updated on {{ post.last_modified_at | date: "%B %-d, %Y" }}</p>
+          {% if post.bucket contains t %}
+            <a href="{{ post.url }}" target="_blank" title="{{ post.title }}">&#129716;</a>
           {% endif %}
         {% endfor %}
 
       <h3>Notes</h3>
         {% for post in site.notes %}
-          {% if post.tags contains t %}
-          <a href="{{ post.url }}" target="_blank" title="{{ post.title }}">{{post.title}}</a>
-          <p>Last updated on {{ post.last_modified_at | date: "%B %-d, %Y" }}</p>
+          {% if post.bucket contains t %}
+            <a href="{{ post.url }}" target="_blank" title="{{ post.title }}">&#129716;</a>
           {% endif %}
         {% endfor %}
 
       <h3>Pages</h3>
         {% for post in site.pages %}
-          {% if post.tags contains t %}
-          <a href="{{ post.url }}" target="_blank" title="{{ post.title }}">{{post.title}}</a>
-          <p>Last updated on {{ post.last_modified_at | date: "%B %-d, %Y" }}</p>
+          {% if post.bucket contains t %}
+            <a href="{{ post.url }}" target="_blank" title="{{ post.title }}">&#129716;</a>
           {% endif %}
         {% endfor %}
 
       <h3>Posts</h3>
         {% for post in site.posts %}
-          {% if post.tags contains t %}
-          <a href="{{ post.url }}" target="_blank" title="{{ post.title }}">{{post.title}}</a>
-          <p>Last updated on {{ post.last_modified_at | date: "%B %-d, %Y" }}</p>
+          {% if post.bucket contains t %}
+            <a href="{{ post.url }}" target="_blank" title="{{ post.title }}">&#129716;</a>
           {% endif %}
         {% endfor %}
 
@@ -80,7 +76,3 @@ metaanotherthing:
 </article>
 
 <hr>
-
-
-<a href="{{ post.url }}" target="_blank" title="{{ post.title }}">{{post.title}}</a>
-<p>Last updated on {{ post.last_modified_at | date: "%B %-d, %Y" }}</p>
