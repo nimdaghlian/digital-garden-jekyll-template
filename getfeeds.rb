@@ -18,6 +18,7 @@ require 'to_slug'
   feed_url = feeditem["feed"]
   name = feeditem["name"]
  	bucket = feeditem["bucket"]
+  bucket_slug = bucket.to_slug.sub(/-\Z/,"")
   if feeditem["tags"]
     globaltag = feeditem["tags"]
   else
@@ -26,7 +27,7 @@ require 'to_slug'
  	this_output = output_location
  	if bucket
     # make sure the feed pages have somewhere to go
-    this_output += "#{bucket}/"
+    this_output += "#{bucket_slug}/"
     unless File.exists?(this_output)
       Dir.mkdir(this_output)
     end
@@ -36,7 +37,7 @@ require 'to_slug'
 			unless File.exists?(bucket_notes)
 				Dir.mkdir(bucket_notes)
       end
-			indexname = "#{bucket_notes}#{bucket}.md"
+			indexname = "#{bucket_notes}#{bucket_slug}.md"
 			unless File.exists?(indexname)
 			newindex = File.new(indexname, "w+")
 			newindex.puts "---"
@@ -84,7 +85,8 @@ require 'to_slug'
    			file.puts "--- \n"
         file.puts description
    			file.puts " <!-- end excerpt --> \n"
-        file.puts "<div class='bucket'><a class='internal-link' src='#{notes_location}buckets/#{bucket}'>#{bucket}</a></div> \n"
+        # ok this hardcodes the url, which is fine, but make dynamic if you turn this into a plugin
+        file.puts "<div class='bucket'><a class='internal-link' href='/buckets/#{bucket_slug}'>#{bucket}</a></div> \n"
    			file.close
    		 end
      end

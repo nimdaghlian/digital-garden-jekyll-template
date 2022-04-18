@@ -63,13 +63,20 @@ defaults:
 feeds:
   - name: "Astronomy Picture of the Day"
     feed: https://apod.nasa.gov/apod.rss
-    bucket: APOD
+    bucket: "Astronomy Picture of the Day"
     tags: ["space", "science"]
   - name: "Public Domain Review"
     feed: https://publicdomainreview.org/rss.xml
-    bucket: PDR
+    bucket: "Public Domain Review"
     tags: ["history", "art"]
   - name: "The Morning News"
     tags: ["misc", "news"]
     feed: http://feeds.themorningnews.org/tmn/rss?format=xml
-    bucket: TMR
+    bucket: "The Morning News"
+  - name: "digitalgardens pinboard"
+    feed: https://feeds.pinboard.in/rss/secret:b033bb0b394dfb0e3cb3/u:nimdaghlian/t:digitalgardens/
+    bucket: "Bookmarks"
+  - name: "The Grapefruit Sometimes Art Email"
+    tags: ["art", "cool", "Grapefruits Sometimes Art Email"]
+    feed: https://buttondown.email/martha/rss
+    bucket: "Mailing Lists"
