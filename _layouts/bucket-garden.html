@@ -19,7 +19,7 @@ metaanotherthing:
       <hr>
       <div class="garden" style="width: 90%; display: grid; grid-gap: 1em; grid-template-columns: repeat(10, auto);">
 
-      {% assign t = page.title | downcase %}
+      {% assign t = page.title %}
       <h3>Feeds</h3>
         {% for post in site.feeds %}
           {% if post.bucket contains t %}

@@ -61,18 +61,15 @@ defaults:
 
 
 feeds:
-  - name: Nim Ha
-    feed: https://feeds.pinboard.in/rss/secret:b033bb0b394dfb0e3cb3/u:nimdaghlian/t:ha/
-    bucket: bookmarks
-    tags: ["space", "science"]
-  - name: Nim Covid
-    feed: https://feeds.pinboard.in/rss/secret:b033bb0b394dfb0e3cb3/u:nimdaghlian/t:covid/
-    bucket: bookmarks
-  - name: APOD
+  - name: "Astronomy Picture of the Day"
     feed: https://apod.nasa.gov/apod.rss
-    bucket: feeds
+    bucket: APOD
     tags: ["space", "science"]
-  - name: PDR
+  - name: "Public Domain Review"
     feed: https://publicdomainreview.org/rss.xml
-    bucket: feeds
-    tags: ["history"]
+    bucket: PDR
+    tags: ["history", "art"]
+  - name: "The Morning News"
+    tags: ["misc", "news"]
+    feed: http://feeds.themorningnews.org/tmn/rss?format=xml
+    bucket: TMR
