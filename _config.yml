@@ -1,4 +1,4 @@
-title:               New and Improved Digital Garden
+title:               nim's test garden
 include:             ['_pages']
 exclude:
   - getfeeds.rb
