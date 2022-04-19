@@ -2,4 +2,5 @@
 title: Bookmarks
 layout: bucket-garden
 --- 
-A collection of all the notes and other pages in this garden that are in the Bookmarks bucket.
+
+All bookmarks I've imported. Only pulling in a couple tags right now while I decide how to handle my massive amount of links and tags.
