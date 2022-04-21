@@ -2,7 +2,7 @@
 title: > 
  All the Bad Things About Uber and Lyft In One Simple List – Streetsblog USA
 date: 2019-02-18T19:27:06+00:00
-dateadded: 2022-04-20 23:35:24 -0400
+dateadded: 2022-04-20 23:58:39 -0400
 link: "https://usa.streetsblog.org/2019/02/04/all-the-bad-things-about-uber-and-lyft-in-one-simple-list/"
 bucket: patterns
 layout: urlnote

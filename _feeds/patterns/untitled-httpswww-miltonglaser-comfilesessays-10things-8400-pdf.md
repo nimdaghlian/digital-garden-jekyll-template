@@ -2,7 +2,7 @@
 title: > 
  Untitled (https://www.miltonglaser.com/files/Essays-10things-8400.pdf)
 date: 2020-06-30T03:03:51+00:00
-dateadded: 2022-04-20 23:35:24 -0400
+dateadded: 2022-04-20 23:58:39 -0400
 link: "https://www.miltonglaser.com/files/Essays-10things-8400.pdf"
 bucket: patterns
 layout: urlnote

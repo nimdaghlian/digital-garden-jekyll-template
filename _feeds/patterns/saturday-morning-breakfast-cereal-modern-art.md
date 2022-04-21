@@ -2,7 +2,7 @@
 title: > 
  Saturday Morning Breakfast Cereal - Modern Art
 date: 2018-11-06T03:59:50+00:00
-dateadded: 2022-04-20 23:35:24 -0400
+dateadded: 2022-04-20 23:58:39 -0400
 link: "https://www.smbc-comics.com/"
 bucket: patterns
 layout: urlnote

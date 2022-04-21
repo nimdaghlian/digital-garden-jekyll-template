@@ -2,7 +2,7 @@
 title: > 
  Neuroscience vs art: Let's talk across the divide | New Scientist
 date: 2018-05-09T02:58:08+00:00
-dateadded: 2022-04-20 23:35:24 -0400
+dateadded: 2022-04-20 23:58:39 -0400
 link: "https://www.newscientist.com/article/mg23231041-900-neuroscience-vs-art-lets-talk-across-the-divide/"
 bucket: patterns
 layout: urlnote

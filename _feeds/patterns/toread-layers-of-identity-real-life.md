@@ -2,7 +2,7 @@
 title: > 
  [toread] Layers of Identity — Real Life
 date: 2018-05-21T16:23:28+00:00
-dateadded: 2022-04-20 23:35:24 -0400
+dateadded: 2022-04-20 23:58:39 -0400
 link: "http://reallifemag.com/layers-of-identity/"
 bucket: patterns
 layout: urlnote

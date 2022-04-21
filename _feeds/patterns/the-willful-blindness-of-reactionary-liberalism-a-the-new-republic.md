@@ -2,7 +2,7 @@
 title: > 
  The Willful Blindness of Reactionary Liberalism | The New Republic
 date: 2020-07-08T23:08:47+00:00
-dateadded: 2022-04-20 23:35:24 -0400
+dateadded: 2022-04-20 23:58:39 -0400
 link: "https://newrepublic.com/article/158346/willful-blindness-reactionary-liberalism"
 bucket: patterns
 layout: urlnote

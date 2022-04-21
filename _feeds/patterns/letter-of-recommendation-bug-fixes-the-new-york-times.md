@@ -2,7 +2,7 @@
 title: > 
  Letter of Recommendation: Bug Fixes - The New York Times
 date: 2019-06-15T00:31:58+00:00
-dateadded: 2022-04-20 23:35:24 -0400
+dateadded: 2022-04-20 23:58:39 -0400
 link: "https://www.nytimes.com/2019/06/11/magazine/letter-of-recommendation-bug-fixes-git.html"
 bucket: patterns
 layout: urlnote
