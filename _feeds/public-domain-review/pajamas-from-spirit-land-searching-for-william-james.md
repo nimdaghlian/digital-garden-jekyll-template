@@ -1,8 +1,8 @@
 ---
 title: > 
  “Pajamas from Spirit Land”: Searching for William James
-date: 2022-04-17 23:10:02 -0400
-dateadded: 2022-04-17 23:10:02 -0400
+date: 2022-04-20 23:16:23 -0400
+dateadded: 2022-04-20 23:16:23 -0400
 link: "https://publicdomainreview.org/essay/pajamas-from-spirit-land"
 bucket: Public Domain Review
 layout: urlnote

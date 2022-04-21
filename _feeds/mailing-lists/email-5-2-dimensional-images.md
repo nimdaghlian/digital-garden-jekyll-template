@@ -1,8 +1,8 @@
 ---
 title: > 
  email #5: 2-dimensional images
-date: 2022-04-17 23:15:25 -0400
-dateadded: 2022-04-17 23:15:25 -0400
+date: 2022-04-20 23:16:25 -0400
+dateadded: 2022-04-20 23:16:25 -0400
 link: "https://buttondown.email/martha/archive/email-5-2-dimensional-images/"
 bucket: Mailing Lists
 layout: urlnote

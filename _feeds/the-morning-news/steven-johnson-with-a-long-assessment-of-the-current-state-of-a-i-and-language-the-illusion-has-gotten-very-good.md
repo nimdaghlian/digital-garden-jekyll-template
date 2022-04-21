@@ -2,7 +2,7 @@
 title: > 
  Steven Johnson with a long assessment of the current state of A.I. and language. (The illusion has gotten very good.)
 date: 2022-04-18T14:02:00+00:00
-dateadded: 2022-04-18 22:40:41 -0400
+dateadded: 2022-04-20 23:16:23 -0400
 link: "https://www.nytimes.com/2022/04/15/magazine/ai-language.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuomT1JKd6J17Vw1cRCfTTMQmqxCdw_PIxftm3iWka3DJDm8fiOEcDIGS-kHAIqNiIt862TuGTdBMdr8zQfg4hsluA3tQcSj66J2VhMZCZCwvtYO4Wm5x1M-QB-1m-2GvMja3I6IizrHi-kLZbmL1WKKM0"
 bucket: The Morning News
 layout: urlnote

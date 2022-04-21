@@ -18,11 +18,20 @@ require 'to_slug'
   feed_url = feeditem["feed"]
   name = feeditem["name"]
  	bucket = feeditem["bucket"]
+
+  # set parse_tags: true on the yaml for a feed
+  # if you want to make notes for all the tags
+  # that come in on the feed items
+
+  parse_tags = feeditem["parse_tags"]
   bucket_slug = bucket.to_slug.sub(/-\Z/,"")
+
+  # option to manually set tags for each item
+
   if feeditem["tags"]
-    globaltag = feeditem["tags"]
+    globaltags = feeditem["tags"]
   else
-    globaltag = []
+    globaltags = []
   end
  	this_output = output_location
  	if bucket
@@ -49,18 +58,28 @@ require 'to_slug'
  	end
 
    URI.open(feed_url) do |rss|
-     feed = RSS::Parser.parse(rss)
+     feed_source = RSS::Parser.parse(rss)
      # puts "Title: #{feed.channel.title}"
-     feed.items.each do |item|
+     feed_source.items.each do |item|
        # puts "Item: #{item.title}"
        title = item.title.encode('utf-8', :invalid => :replace, :undef => :replace, :replace => '-')
-       tags = globaltag
+       tags = globaltags
        if item.dc_subject
          tags += item.dc_subject.split(" ")
        end
-       tags.each do |tag|
+
+       # make notes for tags -- include the tags from feed items if parse_tags flag is set
+
+       if parse_tags
+         tagnotes = tags
+       else
+         tagnotes = globaltags
+       end
+
+       tagnotes.each do |tag|
          everytag.push(tag) unless everytag.include?(tag)
        end
+
        description = "No Description"
        if item.description
          description = item.description
@@ -99,7 +118,7 @@ end
       unless File.exists?(tag_output)
           Dir.mkdir(tag_output)
       end
-        indexname = "#{tag_output}#{tagpage}.md"
+        indexname = "#{tag_output}#{tagpage.to_slug.sub(/-\Z/,"")}.md"
         unless File.exists?(indexname)
         newindex = File.new(indexname, "w+")
           newindex.puts "---"

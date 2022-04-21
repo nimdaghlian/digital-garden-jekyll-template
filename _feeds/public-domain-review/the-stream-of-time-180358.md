@@ -1,8 +1,8 @@
 ---
 title: > 
  The Stream of Time (1803–58)
-date: 2022-04-20 18:24:12 -0400
-dateadded: 2022-04-20 18:24:12 -0400
+date: 2022-04-20 23:16:23 -0400
+dateadded: 2022-04-20 23:16:23 -0400
 link: "https://publicdomainreview.org/collection/stream-of-time"
 bucket: Public Domain Review
 layout: urlnote

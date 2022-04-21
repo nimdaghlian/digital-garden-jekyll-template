@@ -1,8 +1,8 @@
 ---
 title: > 
  Adolf Schmidt’s *Atlas der Diatomaceenkunde* (1890)
-date: 2022-04-17 23:10:02 -0400
-dateadded: 2022-04-17 23:10:02 -0400
+date: 2022-04-20 23:16:23 -0400
+dateadded: 2022-04-20 23:16:23 -0400
 link: "https://publicdomainreview.org/collection/schmidt-diatoms"
 bucket: Public Domain Review
 layout: urlnote

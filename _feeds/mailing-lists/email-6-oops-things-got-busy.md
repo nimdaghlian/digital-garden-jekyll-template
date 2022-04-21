@@ -1,8 +1,8 @@
 ---
 title: > 
  email #6: oops things got busy
-date: 2022-04-17 23:15:25 -0400
-dateadded: 2022-04-17 23:15:25 -0400
+date: 2022-04-20 23:16:25 -0400
+dateadded: 2022-04-20 23:16:25 -0400
 link: "https://buttondown.email/martha/archive/email-6-oops-things-got-busy/"
 bucket: Mailing Lists
 layout: urlnote

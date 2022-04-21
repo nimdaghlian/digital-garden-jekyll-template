@@ -2,7 +2,7 @@
 title: > 
  In the 17th and 18th centuries, women and men wore beauty patches, or mouches. The English parliament called it an "immoral vice."
 date: 2022-04-20T15:47:00+00:00
-dateadded: 2022-04-20 18:24:12 -0400
+dateadded: 2022-04-20 23:16:23 -0400
 link: "https://www.messynessychic.com/2022/04/15/the-secret-code-of-beauty-spots/"
 bucket: The Morning News
 layout: urlnote

@@ -2,7 +2,7 @@
 title: > 
  One way to revamp and perhaps improve scientific publishing: instead of white papers, what if we had websites?
 date: 2022-04-18T19:43:00+00:00
-dateadded: 2022-04-18 22:40:41 -0400
+dateadded: 2022-04-20 23:16:23 -0400
 link: "https://www.theguardian.com/books/2022/apr/11/the-big-idea-should-we-get-rid-of-the-scientific-paper"
 bucket: The Morning News
 layout: urlnote

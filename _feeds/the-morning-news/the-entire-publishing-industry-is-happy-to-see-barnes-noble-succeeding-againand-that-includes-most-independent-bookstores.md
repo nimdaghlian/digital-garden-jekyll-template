@@ -2,7 +2,7 @@
 title: > 
  The entire publishing industry is happy to see Barnes & Noble succeeding again—and that includes (most) independent bookstores.
 date: 2022-04-18T14:13:00+00:00
-dateadded: 2022-04-18 22:40:41 -0400
+dateadded: 2022-04-20 23:16:23 -0400
 link: "https://www.nytimes.com/2022/04/15/arts/barnes-noble-bookstores.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuomT1JKd6J17Vw1cRCfTTMQmqxCdw_PIxftm3iWka3DJDm8fiO0PH5PH8U7XY6d4It001TCWAdVGN7w0WPtow_QZP1BoT0PghKq4r6k_And_r5OvDCRx1ojRXLs8_HjnZDW1eb12yvjmsh_Wd"
 bucket: The Morning News
 layout: urlnote

@@ -1,8 +1,8 @@
 ---
 title: > 
  Aspirated Aspirations: Alfred Leach’s *The Letter H* (1880)
-date: 2022-04-17 23:10:02 -0400
-dateadded: 2022-04-17 23:10:02 -0400
+date: 2022-04-20 23:16:23 -0400
+dateadded: 2022-04-20 23:16:23 -0400
 link: "https://publicdomainreview.org/collection/the-letter-h"
 bucket: Public Domain Review
 layout: urlnote

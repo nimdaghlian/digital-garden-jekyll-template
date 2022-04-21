@@ -73,13 +73,19 @@ feeds:
     tags: ["misc", "news"]
     feed: http://feeds.themorningnews.org/tmn/rss?format=xml
     bucket: "The Morning News"
-  - name: "digitalgardens pinboard"
-    feed: https://feeds.pinboard.in/rss/secret:b033bb0b394dfb0e3cb3/u:nimdaghlian/t:digitalgardens/
-    bucket: "Bookmarks"
-  - name: "cozyweb pinboard"
-    feed: https://feeds.pinboard.in/rss/secret:b033bb0b394dfb0e3cb3/u:nimdaghlian/t:cozyweb/
-    bucket: "Bookmarks"
   - name: "The Grapefruit Sometimes Art Email"
     tags: ["art", "cool", "Grapefruits Sometimes Art Email"]
     feed: https://buttondown.email/martha/rss
     bucket: "Mailing Lists"
+  - name: "digitalgardens pinboard"
+    feed: https://feeds.pinboard.in/rss/secret:b033bb0b394dfb0e3cb3/u:nimdaghlian/t:digitalgardens/
+    tags: ["Digital Gardens"]
+    bucket: "Bookmarks"
+  - name: "cozyweb pinboard"
+    feed: https://feeds.pinboard.in/rss/secret:b033bb0b394dfb0e3cb3/u:nimdaghlian/t:cozyweb/
+    tags: ["cozyweb"]
+    bucket: "Bookmarks"
+  - name: "patterns pinboard"
+    feed: https://feeds.pinboard.in/rss/secret:b033bb0b394dfb0e3cb3/u:nimdaghlian/t:patterns/
+    bucket: "patterns"
+    tags: ["patterns"]

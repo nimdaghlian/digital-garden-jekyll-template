@@ -2,7 +2,7 @@
 title: > 
  To assess the risk of dying of Covid, it may help to compare it to risks of dying in other ways.
 date: 2022-04-19T15:32:00+00:00
-dateadded: 2022-04-20 18:24:12 -0400
+dateadded: 2022-04-20 23:16:23 -0400
 link: "https://www.nytimes.com/2022/04/17/science/covid-risks.html"
 bucket: The Morning News
 layout: urlnote

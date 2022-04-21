@@ -1,8 +1,8 @@
 ---
 title: > 
  A Deeper Dive into *Affinities*, Our New Book of Images
-date: 2022-04-17 23:10:02 -0400
-dateadded: 2022-04-17 23:10:02 -0400
+date: 2022-04-20 23:16:23 -0400
+dateadded: 2022-04-20 23:16:23 -0400
 link: "https://publicdomainreview.org/blog/2021/05/a-deeper-dive-into-affinities"
 bucket: Public Domain Review
 layout: urlnote

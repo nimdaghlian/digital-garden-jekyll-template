@@ -2,7 +2,7 @@
 title: > 
  For the billionaire who has everything: a 656-foot blimp that carries around a 197-foot yacht.
 date: 2022-04-20T13:54:00+00:00
-dateadded: 2022-04-20 18:24:12 -0400
+dateadded: 2022-04-20 23:16:23 -0400
 link: "https://airyacht.ch/"
 bucket: The Morning News
 layout: urlnote

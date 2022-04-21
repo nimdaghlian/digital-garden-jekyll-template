@@ -2,7 +2,7 @@
 title: > 
  Whatever happened to Pebble smartwatches? Not enough planning and too much straying from simply making watches for hackers.
 date: 2022-04-18T13:59:00+00:00
-dateadded: 2022-04-18 22:40:41 -0400
+dateadded: 2022-04-20 23:16:23 -0400
 link: "https://medium.com/@ericmigi/why-pebble-failed-d7be937c6232"
 bucket: The Morning News
 layout: urlnote

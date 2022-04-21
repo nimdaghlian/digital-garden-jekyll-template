@@ -2,7 +2,7 @@
 title: > 
  The US has the highest maternal mortality rate among industrialized countries. Since 2000, it's risen nearly 60 percent.
 date: 2022-04-20T14:02:00+00:00
-dateadded: 2022-04-20 18:24:12 -0400
+dateadded: 2022-04-20 23:16:23 -0400
 link: "https://www.theguardian.com/us-news/2022/apr/19/black-mothers-birth-maternal-mortality"
 bucket: The Morning News
 layout: urlnote

@@ -2,7 +2,7 @@
 title: > 
  A Ukrainian man has been able to track the redeployment of Russian troops after they stole his AirPods.
 date: 2022-04-18T19:41:00+00:00
-dateadded: 2022-04-18 22:40:41 -0400
+dateadded: 2022-04-20 23:16:23 -0400
 link: "https://www.thetimes.co.uk/article/stolen-airpods-give-away-russian-retreat-positions-c60j88nvv"
 bucket: The Morning News
 layout: urlnote

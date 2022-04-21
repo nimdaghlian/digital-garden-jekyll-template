@@ -144,3 +144,9 @@ code {
   color: #ccc;
   cursor: help;
 }
+
+.garden {
+  h3 {
+    grid-column: 1 / -1;
+  }
+}

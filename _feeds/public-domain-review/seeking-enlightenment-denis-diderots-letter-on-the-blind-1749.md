@@ -1,8 +1,8 @@
 ---
 title: > 
  Seeking Enlightenment: Denis Diderot’s *Letter on the Blind* (1749)
-date: 2022-04-17 23:10:02 -0400
-dateadded: 2022-04-17 23:10:02 -0400
+date: 2022-04-20 23:16:23 -0400
+dateadded: 2022-04-20 23:16:23 -0400
 link: "https://publicdomainreview.org/collection/denis-diderot-letter-on-the-blind"
 bucket: Public Domain Review
 layout: urlnote

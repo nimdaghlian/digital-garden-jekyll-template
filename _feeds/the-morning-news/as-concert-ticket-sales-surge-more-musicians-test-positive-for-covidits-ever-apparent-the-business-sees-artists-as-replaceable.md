@@ -2,7 +2,7 @@
 title: > 
  As concert ticket sales surge, more musicians test positive for Covid—it's ever apparent the business sees artists as replaceable.
 date: 2022-04-19T21:40:00+00:00
-dateadded: 2022-04-20 18:24:12 -0400
+dateadded: 2022-04-20 23:16:23 -0400
 link: "https://dadadrummer.substack.com/p/masks-are-off"
 bucket: The Morning News
 layout: urlnote

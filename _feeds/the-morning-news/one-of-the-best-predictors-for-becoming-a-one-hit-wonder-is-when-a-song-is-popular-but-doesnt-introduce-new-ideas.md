@@ -2,7 +2,7 @@
 title: > 
  One of the best predictors for becoming a one-hit wonder is when a song is popular, but doesn't introduce new ideas.
 date: 2022-04-19T23:11:00+00:00
-dateadded: 2022-04-20 18:24:12 -0400
+dateadded: 2022-04-20 23:16:23 -0400
 link: "https://www.theatlantic.com/newsletters/archive/2022/04/shania-twain-creativity-one-hit-wonder/629569/"
 bucket: The Morning News
 layout: urlnote

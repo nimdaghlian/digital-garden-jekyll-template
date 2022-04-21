@@ -2,7 +2,7 @@
 title: > 
  An active visualization of the minutes remaining in your day.
 date: 2022-04-18T13:54:00+00:00
-dateadded: 2022-04-18 22:40:41 -0400
+dateadded: 2022-04-20 23:16:23 -0400
 link: "https://rectangles.app/"
 bucket: The Morning News
 layout: urlnote

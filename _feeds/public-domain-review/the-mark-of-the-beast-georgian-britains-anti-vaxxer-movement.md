@@ -1,8 +1,8 @@
 ---
 title: > 
  “The Mark of the Beast”: Georgian Britain’s Anti-Vaxxer Movement
-date: 2022-04-17 23:10:02 -0400
-dateadded: 2022-04-17 23:10:02 -0400
+date: 2022-04-20 23:16:23 -0400
+dateadded: 2022-04-20 23:16:23 -0400
 link: "https://publicdomainreview.org/essay/the-mark-of-the-beast-georgian-britains-anti-vaxxer-movement"
 bucket: Public Domain Review
 layout: urlnote

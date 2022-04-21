@@ -2,7 +2,7 @@
 title: > 
  Wordle for redacted Wikipedia articles.
 date: 2022-04-19T21:41:00+00:00
-dateadded: 2022-04-20 18:24:12 -0400
+dateadded: 2022-04-20 23:16:23 -0400
 link: "https://www.redactle.com/"
 bucket: The Morning News
 layout: urlnote

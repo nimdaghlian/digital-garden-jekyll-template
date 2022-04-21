@@ -1,8 +1,8 @@
 ---
 title: > 
  email 2 – fruit rap, surrealism, art fairs, community, borders, blood, robots, rivers
-date: 2022-04-17 23:15:25 -0400
-dateadded: 2022-04-17 23:15:25 -0400
+date: 2022-04-20 23:16:25 -0400
+dateadded: 2022-04-20 23:16:25 -0400
 link: "https://buttondown.email/martha/archive/email-2-fruit-rap-surrealism-art-fairs-community/"
 bucket: Mailing Lists
 layout: urlnote

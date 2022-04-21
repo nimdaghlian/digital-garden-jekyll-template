@@ -2,7 +2,7 @@
 title: > 
  Meta — alisa.wtf
 date: 2022-04-18T15:26:18+00:00
-dateadded: 2022-04-19 00:59:46 -0400
+dateadded: 2022-04-20 23:16:23 -0400
 link: "https://alisa.wtf/meta"
 bucket: Bookmarks
 layout: urlnote

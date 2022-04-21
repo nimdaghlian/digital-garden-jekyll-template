@@ -1,8 +1,8 @@
 ---
 title: > 
  Portrait of a Scaphander
-date: 2022-04-17 23:10:02 -0400
-dateadded: 2022-04-17 23:10:02 -0400
+date: 2022-04-20 23:16:23 -0400
+dateadded: 2022-04-20 23:16:23 -0400
 link: "https://publicdomainreview.org/essay/portrait-of-a-scaphander"
 bucket: Public Domain Review
 layout: urlnote

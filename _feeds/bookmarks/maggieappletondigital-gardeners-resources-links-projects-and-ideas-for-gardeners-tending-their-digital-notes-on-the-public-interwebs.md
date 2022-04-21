@@ -2,7 +2,7 @@
 title: > 
  MaggieAppleton/digital-gardeners: Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 date: 2022-04-05T22:56:15+00:00
-dateadded: 2022-04-19 00:59:46 -0400
+dateadded: 2022-04-20 23:16:23 -0400
 link: "https://github.com/MaggieAppleton/digital-gardeners"
 bucket: Bookmarks
 layout: urlnote

@@ -2,7 +2,7 @@
 title: > 
  "Plant hunters" search tropical locations for the next trendy houseplant. Will geos be the next fiddle leaf fig?
 date: 2022-04-20T13:49:00+00:00
-dateadded: 2022-04-20 18:24:12 -0400
+dateadded: 2022-04-20 23:16:23 -0400
 link: "https://www.nytimes.com/2022/04/16/style/fiddle-leaf-fig-plants.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuomT1JKd6J17Vw1cRCfTTMQmqxCdw_PIxftm3iWka3DJDm8ciP8JEoyNvEnMaaZnap430j2VAdFAP_o3QPV00vQZP1BoT0PghKq4r6k_And_r5OvDCRx1ojRXLs8_HjkPjDpI78nzvi24UPdd"
 bucket: The Morning News
 layout: urlnote

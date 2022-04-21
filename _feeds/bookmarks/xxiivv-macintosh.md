@@ -2,7 +2,7 @@
 title: > 
  XXIIVV — macintosh
 date: 2022-04-14T12:20:27+00:00
-dateadded: 2022-04-19 00:59:46 -0400
+dateadded: 2022-04-20 23:16:24 -0400
 link: "https://wiki.xxiivv.com/site/macintosh.html"
 bucket: Bookmarks
 layout: urlnote

@@ -2,7 +2,7 @@
 title: > 
  Two decades ago, a report on systemic racism sent shockwaves through medicine. Today, the same disparities remain.
 date: 2022-04-20T14:03:00+00:00
-dateadded: 2022-04-20 18:24:12 -0400
+dateadded: 2022-04-20 23:16:23 -0400
 link: "https://www.statnews.com/2022/02/23/landmark-report-systemic-racism-medicine-so-little-has-changed/"
 bucket: The Morning News
 layout: urlnote

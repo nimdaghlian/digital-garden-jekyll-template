@@ -1,8 +1,8 @@
 ---
 title: > 
  Beastly Clues: T. S. Eliot, Torquemada, and the Modernist Crossword
-date: 2022-04-17 23:10:02 -0400
-dateadded: 2022-04-17 23:10:02 -0400
+date: 2022-04-20 23:16:23 -0400
+dateadded: 2022-04-20 23:16:23 -0400
 link: "https://publicdomainreview.org/essay/beastly-clues"
 bucket: Public Domain Review
 layout: urlnote

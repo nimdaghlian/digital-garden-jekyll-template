@@ -2,7 +2,7 @@
 title: > 
  A new gaming console piques interest mainly for its use of a hand crank. "And the crank. The crank. My God."
 date: 2022-04-18T14:20:32+00:00
-dateadded: 2022-04-18 22:40:41 -0400
+dateadded: 2022-04-20 23:16:23 -0400
 link: "https://www.polygon.com/23013686/playdate-panic-crank-history"
 bucket: The Morning News
 layout: urlnote

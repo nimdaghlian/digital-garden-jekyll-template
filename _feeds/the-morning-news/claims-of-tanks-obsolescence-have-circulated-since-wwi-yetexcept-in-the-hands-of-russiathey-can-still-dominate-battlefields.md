@@ -2,7 +2,7 @@
 title: > 
  Claims of tanks' obsolescence have circulated since WWI, yet—except in the hands of Russia—they can still dominate battlefields.
 date: 2022-04-19T15:34:00+00:00
-dateadded: 2022-04-20 18:24:12 -0400
+dateadded: 2022-04-20 23:16:23 -0400
 link: "https://www.vice.com/en/article/v7dkjm/stop-saying-the-tank-is-obsolete-just-because-russia-sucks-at-using-them"
 bucket: The Morning News
 layout: urlnote

@@ -1,8 +1,8 @@
 ---
 title: > 
  email 4: no reading required
-date: 2022-04-17 23:15:25 -0400
-dateadded: 2022-04-17 23:15:25 -0400
+date: 2022-04-20 23:16:25 -0400
+dateadded: 2022-04-20 23:16:25 -0400
 link: "https://buttondown.email/martha/archive/email-4-no-reading-required/"
 bucket: Mailing Lists
 layout: urlnote

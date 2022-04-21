@@ -2,7 +2,7 @@
 title: > 
  "As if an invisible architecture were coming into view."
 date: 2022-04-18T19:45:00+00:00
-dateadded: 2022-04-18 22:40:41 -0400
+dateadded: 2022-04-20 23:16:23 -0400
 link: "https://themorningnews.org/p/the-los-angeles-master-chorale-performslagrime-di-san-pietro"
 bucket: The Morning News
 layout: urlnote

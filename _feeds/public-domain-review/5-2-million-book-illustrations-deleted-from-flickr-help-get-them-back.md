@@ -1,8 +1,8 @@
 ---
 title: > 
  5.2 Million Book Illustrations Deleted from Flickr — Help Get Them Back
-date: 2022-04-17 23:10:02 -0400
-dateadded: 2022-04-17 23:10:02 -0400
+date: 2022-04-20 23:16:23 -0400
+dateadded: 2022-04-20 23:16:23 -0400
 link: "https://publicdomainreview.org/blog/2022/04/5-million-book-illustrations-deleted-from-flickr"
 bucket: Public Domain Review
 layout: urlnote

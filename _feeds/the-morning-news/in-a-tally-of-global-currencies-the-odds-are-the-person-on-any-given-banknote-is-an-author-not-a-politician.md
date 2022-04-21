@@ -2,7 +2,7 @@
 title: > 
  In a tally of global currencies, the odds are the person on any given banknote is an author, not a politician.
 date: 2022-04-18T14:18:00+00:00
-dateadded: 2022-04-18 22:40:41 -0400
+dateadded: 2022-04-20 23:16:23 -0400
 link: "https://pudding.cool/2022/04/banknotes/"
 bucket: The Morning News
 layout: urlnote

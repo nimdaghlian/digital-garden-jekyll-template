@@ -1,8 +1,8 @@
 ---
 title: > 
  “When London is in Ruins”: Gustave Doré’s *The New Zealander* (1872)
-date: 2022-04-17 23:10:02 -0400
-dateadded: 2022-04-17 23:10:02 -0400
+date: 2022-04-20 23:16:23 -0400
+dateadded: 2022-04-20 23:16:23 -0400
 link: "https://publicdomainreview.org/collection/dore-new-zealander"
 bucket: Public Domain Review
 layout: urlnote

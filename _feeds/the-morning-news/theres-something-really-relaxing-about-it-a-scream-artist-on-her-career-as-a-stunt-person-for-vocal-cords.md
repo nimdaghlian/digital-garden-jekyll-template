@@ -2,7 +2,7 @@
 title: > 
  "There’s something really relaxing about it." A scream artist on her career as a stunt person for vocal cords.
 date: 2022-04-19T21:42:00+00:00
-dateadded: 2022-04-20 18:24:12 -0400
+dateadded: 2022-04-20 23:16:23 -0400
 link: "https://www.theguardian.com/lifeandstyle/2022/apr/08/experience-my-scream-is-famous"
 bucket: The Morning News
 layout: urlnote

@@ -1,8 +1,8 @@
 ---
 title: > 
  Flowers of Fire: Illustrations from Japanese Fireworks Catalogues (ca. 1880s)
-date: 2022-04-17 23:10:02 -0400
-dateadded: 2022-04-17 23:10:02 -0400
+date: 2022-04-20 23:16:23 -0400
+dateadded: 2022-04-20 23:16:23 -0400
 link: "https://publicdomainreview.org/collection/japanese-fireworks-catalogues"
 bucket: Public Domain Review
 layout: urlnote

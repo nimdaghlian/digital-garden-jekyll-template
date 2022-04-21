@@ -1,8 +1,8 @@
 ---
 title: > 
  Lithographs from M. E. Descourtilz’s *Atlas des Champignons* (1827)
-date: 2022-04-17 23:10:02 -0400
-dateadded: 2022-04-17 23:10:02 -0400
+date: 2022-04-20 23:16:23 -0400
+dateadded: 2022-04-20 23:16:23 -0400
 link: "https://publicdomainreview.org/collection/atlas-des-champignons"
 bucket: Public Domain Review
 layout: urlnote

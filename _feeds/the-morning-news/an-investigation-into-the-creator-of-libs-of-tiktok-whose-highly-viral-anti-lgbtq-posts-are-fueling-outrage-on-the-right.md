@@ -2,7 +2,7 @@
 title: > 
  An investigation into the creator of Libs of TikTok, whose highly viral anti-LGBTQ+ posts are fueling outrage on the right.
 date: 2022-04-19T15:31:00+00:00
-dateadded: 2022-04-20 18:24:12 -0400
+dateadded: 2022-04-20 23:16:23 -0400
 link: "https://www.washingtonpost.com/technology/2022/04/19/libs-of-tiktok-right-wing-media/"
 bucket: The Morning News
 layout: urlnote
