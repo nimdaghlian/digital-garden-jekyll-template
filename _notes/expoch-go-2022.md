@@ -3,7 +3,7 @@ tags:
 - place and time
 - art
 title: EXPOCH GO 2022
-layout: note
+layout: note-with-poster
 poster: "/uploads/expo-2022.jpeg"
 
 ---
