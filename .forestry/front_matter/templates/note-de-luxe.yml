@@ -19,3 +19,5 @@ fields:
   config:
     maxSize: 64
   label: poster
+pages:
+- _notes/expoch-go-2022.md
