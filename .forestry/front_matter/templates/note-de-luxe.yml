@@ -1,0 +1,7 @@
+---
+label: Note - de luxe
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
