@@ -2,11 +2,11 @@
 title: > 
  XXIIVV — hundred rabbits
 date: 2022-04-14T12:20:43+00:00
-dateadded: 2022-04-20 23:16:24 -0400
+dateadded: 2022-04-21 21:30:04 -0400
 link: "https://wiki.xxiivv.com/site/hundred_rabbits.html"
 bucket: Bookmarks
 layout: urlnote
-tags: ["cozyweb", "cs"]
+tags: ["cozyweb", "cozyweb", "cs"]
 --- 
 No Description
  <!-- end excerpt --> 

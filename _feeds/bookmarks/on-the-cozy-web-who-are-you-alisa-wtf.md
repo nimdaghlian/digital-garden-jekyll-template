@@ -2,11 +2,11 @@
 title: > 
  On the cozy web, who are you? — alisa.wtf
 date: 2022-04-17T12:24:22+00:00
-dateadded: 2022-04-20 23:16:24 -0400
+dateadded: 2022-04-21 21:30:04 -0400
 link: "https://alisa.wtf/cozy-web-identity"
 bucket: Bookmarks
 layout: urlnote
-tags: ["cozyweb"]
+tags: ["cozyweb", "cozyweb"]
 --- 
 No Description
  <!-- end excerpt --> 

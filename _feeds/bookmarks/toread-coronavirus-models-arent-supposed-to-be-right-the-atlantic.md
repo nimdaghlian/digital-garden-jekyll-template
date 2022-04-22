@@ -2,7 +2,7 @@
 title: > 
  [toread] Coronavirus Models Aren't Supposed to Be Right - The Atlantic
 date: 2020-04-02T23:45:06+00:00
-dateadded: 2022-04-20 23:59:20 -0400
+dateadded: 2022-04-21 21:30:08 -0400
 link: "https://www.theatlantic.com/technology/archive/2020/04/coronavirus-models-arent-supposed-be-right/609271/"
 bucket: Bookmarks
 layout: urlnote

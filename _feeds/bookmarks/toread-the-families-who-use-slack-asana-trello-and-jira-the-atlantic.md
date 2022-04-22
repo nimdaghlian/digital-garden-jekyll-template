@@ -2,7 +2,7 @@
 title: > 
  [toread] The Families Who Use Slack, Asana, Trello, and Jira - The Atlantic
 date: 2019-07-11T19:30:19+00:00
-dateadded: 2022-04-20 23:59:20 -0400
+dateadded: 2022-04-21 21:30:08 -0400
 link: "https://www.theatlantic.com/family/archive/2019/07/families-slack-asana/593584/"
 bucket: Bookmarks
 layout: urlnote

@@ -2,7 +2,7 @@
 title: > 
  Thinking in Jazz: The Infinite Art of Improvisation (Chicago Studies in Ethnomusicology) - Kindle edition by Paul F. Berliner. Arts & Photography Kindle eBooks @ Amazon.com.
 date: 2018-04-30T18:28:39+00:00
-dateadded: 2022-04-20 23:59:20 -0400
+dateadded: 2022-04-21 21:30:08 -0400
 link: "https://www.amazon.com/Thinking-Jazz-Infinite-Improvisation-Ethnomusicology-ebook/dp/B004M8S3XW/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1525112370&sr=1-1&keywords=thinking+in+jazz"
 bucket: Bookmarks
 layout: urlnote

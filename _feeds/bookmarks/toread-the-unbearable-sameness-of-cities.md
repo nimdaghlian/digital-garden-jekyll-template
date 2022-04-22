@@ -2,7 +2,7 @@
 title: > 
  [toread] The Unbearable Sameness of Cities
 date: 2018-09-03T19:03:51+00:00
-dateadded: 2022-04-20 23:59:20 -0400
+dateadded: 2022-04-21 21:30:08 -0400
 link: "http://nymag.com/travel/article/the-unbearable-sameness-of-cities.html"
 bucket: Bookmarks
 layout: urlnote

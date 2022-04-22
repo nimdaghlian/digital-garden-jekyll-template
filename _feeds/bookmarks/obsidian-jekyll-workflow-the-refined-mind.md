@@ -1,9 +1,9 @@
 ---
 title: > 
- Your first seed — My digital garden
-date: 2022-04-05T11:15:28+00:00
+ Obsidian Jekyll workflow — The Refined Mind
+date: 2022-04-21T12:01:59+00:00
 dateadded: 2022-04-21 21:30:03 -0400
-link: "https://digital-garden-jekyll-template.netlify.app/your-first-note"
+link: "https://refinedmind.co/obsidian-jekyll-workflow"
 bucket: Bookmarks
 layout: urlnote
 tags: ["Digital Gardens", "digitalgardens"]

@@ -67,7 +67,6 @@ require 'to_slug'
        if item.dc_subject
          tags += item.dc_subject.split(" ")
        end
-
        # make notes for tags -- include the tags from feed items if parse_tags flag is set
 
        if parse_tags
