@@ -150,3 +150,9 @@ code {
     grid-column: 1 / -1;
   }
 }
+
+.stuff-list {
+  h3, a, p {
+    grid-column: 1 / -1;
+    }
+}
