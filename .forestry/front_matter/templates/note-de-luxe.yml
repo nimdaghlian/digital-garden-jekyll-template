@@ -5,3 +5,17 @@ fields:
 - type: text
   name: title
   label: title
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
+- name: layout
+  type: text
+  config:
+    required: false
+  label: layout
+- name: poster
+  type: file
+  config:
+    maxSize: 64
+  label: poster
