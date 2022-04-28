@@ -1,5 +1,6 @@
 ---
-title: mumonkan
+title: Mumonkan
+tags: ["friend", "fren"]
 ---
 
 Invented the term "hypolink"
