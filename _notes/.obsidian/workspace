@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "b7493d70a206df6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f4bb7e67586ed93",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "tags/books.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0ddfe7be4fc16cdd",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f87ee8205456297",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84d042caabac75c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "692ebb5f2bbfdf10",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c9f606e7cd91b470",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecb51dd71894dab7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b47c0cbf3706676",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "tags/books.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8f4bb7e67586ed93",
+  "lastOpenFiles": [
+    "tags/books.md",
+    "me.md",
+    "friends/johnjames.md",
+    "friends/Clamber.md",
+    "the-conceptual-labor-book.md",
+    "adventures-a-and-n.md",
+    "friends/Abe.md",
+    "tags/Grapefruits Sometimes Art Email.md",
+    "Martha.md",
+    "metagardening.md"
+  ]
+}
