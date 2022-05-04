@@ -7,7 +7,6 @@ tags:
 title: octothorpethoughts
 layout: note
 poster: ''
-published: false
 
 ---
 [[Nik]] and I have been talking about stuff
