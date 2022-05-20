@@ -9,7 +9,8 @@ layout: note
 poster: ''
 
 ---
-[[Nik]] and I have been talking about stuff
+I had a 15 mile hiking day in [[canyonlands]] and thought about digital gardens until my brain melted. I dumped my thoughts about this project on [[Nik]] and he dumped them back in a [much prettier pile](https://garden.nikolas.ws/thinking-about-octothorpes/).
+
 
 [Social Web Protocol is interesting](https://www.w3.org/TR/social-web-protocols)
 
@@ -33,7 +34,7 @@ Overall, my interest in digital gardens is I'm trying to stick to "what goes in 
 * Lightweight plugins / converters maintined within the ecosystems of website-makers take care of going from Their Way of Doing Things to producing these canonical markdown files
 * How much metadata goes into a human-readable public url is decided within the website-making step
 * Octothorpes as a service a human would use does the following:
-	* parses and associates the meaning of the metadata on canonical urls with the content (markdown) within an namespace 
+	* parses and associates the meaning of the metadata on canonical urls with the content (markdown) within an namespace
 	* generates the relevant JSON-LD for that namespace
 	* coordinates / distributes resources like the plugins that a SSG would use to hook into the Octothorpoes ecostytem
 	* provides JS interfaces for the core features of the Octothorpes ecosystem to plunk in on sites that don't use / have access to the above plugins ^. Eg:
