@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: gardenhome
 title: Home
 id: home
 permalink: /

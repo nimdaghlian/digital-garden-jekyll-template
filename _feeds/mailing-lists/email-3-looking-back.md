@@ -9,7 +9,7 @@ layout: urlnote
 tags: ["art", "cool", "Grapefruits Sometimes Art Email"]
 --- 
 
-<![CDATA[<p>hi there,</p>
+<p>hi there,</p>
 <p>this is a little late because of the holidays, travel, omicron, whatever. but i say the new year starts whenever you want/need it to! here is an end of 2021/start of 2022 art email for you.</p>
 <p>i always enjoy "year in review" type articles, it makes me feel like i was part of something (or totally out of the loop if i don't remember anything on the list!). here's a good one from my old pal the new yorker:</p>
 
@@ -44,5 +44,6 @@ tags: ["art", "cool", "Grapefruits Sometimes Art Email"]
 <p>ok that's all for now! thank you for reading, and please share your reading suggestions with me if you have any : )</p>
 <p>martha</p>
 <p></p>
+
  <!-- end excerpt --> 
 <div class='bucket'><a class='internal-link' href='/buckets/mailing-lists'>Mailing Lists</a></div> 

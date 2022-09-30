@@ -4,6 +4,7 @@ exclude:
   - getfeeds.rb
   - util
   - _includes/notes_graph.json
+  - _feeds
 
 # You may need to change the base URL depending on your deploy configuration.
 # Specifically, when using GitHub Pages, the baseurl should point to where GitHub
@@ -42,6 +43,9 @@ collections:
   feeds:
     output: true
     permalink: /:path
+  galleries:
+    output: true
+    permalink: /:path
 
 
 
@@ -58,6 +62,7 @@ defaults:
       layout: "note"
       tags: []
       bucket: note
+
 
 
 feeds:
@@ -89,3 +94,11 @@ feeds:
     feed: https://feeds.pinboard.in/rss/secret:b033bb0b394dfb0e3cb3/u:nimdaghlian/t:patterns/
     bucket: "Bookmarks"
     tags: ["patterns"]
+
+galleries:
+  - name: "Everything In My Wife's Bag Two Days After We Got Married"
+    directory: "wife-bag"
+    tags: ["drawing", "art", "Martha"]
+  - name: "Clearings Exhibition"
+    directory: "clearings"
+    tags: ["drawing", "art", "Martha", "Grapefruits"]

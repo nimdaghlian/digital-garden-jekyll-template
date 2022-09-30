@@ -1,0 +1,74 @@
+---
+layout: default
+metasomething:
+metaanotherthing:
+---
+
+<article>
+  <div>
+    <h1>{{ page.title }}</h1>
+    <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
+      Last updated on {{ page.last_modified_at | date: "%B %-d, %Y" }}
+      {% endif %}
+    </time>
+  </div>
+
+  <div id="notes-entry-container">
+    <content>
+      {{ content }}
+      <hr>
+      {% assign thename = page.path | split: "/" | last %}
+
+      {% assign thepath = page.path | remove: thename %}
+
+      <h3>dir {{ page.dir }}</h3>
+      <h3>path {{ page.path }}</h3>
+      <h3>thepath {{ thepath }}</h3>
+
+      <div class="garden" style="width: 90%; display: grid; grid-gap: 1em; grid-template-columns: repeat(10, auto);">
+
+        
+        {% for post in site.documents %}
+          {% assign postnamne = post.path | split: "/" | last  %}
+          {% assign postpath = post.path | remove: postname  %}
+
+          {% if postpath contains thepath and post.title != page.title %}
+
+          <a href="{{ post.url }}" target="_blank" title="{{ post.title }}">{{post.title}}</a>
+          <p>Last updated on {{ post.last_modified_at | date: "%B %-d, %Y" }}</p>
+          {% endif %}
+        {% endfor %}
+
+
+      </div>
+
+    </content>
+    <side style="font-size: 0.9em">
+      <h3 style="margin-bottom: 1em">Notes mentioning this note</h3>
+      {% if page.backlinks.size > 0 %}
+      <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(1fr);">
+      {% for backlink in page.backlinks %}
+        <div class="backlink-box">
+        <a class="internal-link" href="{{ site.baseurl }}{{ backlink.url }}{%- if site.use_html_extension -%}.html{%- endif -%}">{{ backlink.title }}</a><br>
+        <div style="font-size: 0.9em">{{ backlink.excerpt | strip_html | truncatewords: 20 }}</div>
+        </div>
+      {% endfor %}
+      </div>
+      {% else %}
+
+      <div style="font-size: 0.9em">
+        <p>
+          There are no notes linking to this note.
+        </p>
+      </div>
+      {% endif %}
+    </side>
+  </div>
+
+</article>
+
+<hr>
+
+
+<a href="{{ post.url }}" target="_blank" title="{{ post.title }}">{{post.title}}</a>
+<p>Last updated on {{ post.last_modified_at | date: "%B %-d, %Y" }}</p>

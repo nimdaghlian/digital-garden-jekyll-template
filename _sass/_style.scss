@@ -7,6 +7,9 @@ $border-radius: 4px;
 $font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
   sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
 
+* {
+  box-sizing: border-box;
+}
 body {
   box-sizing: content-box;
   font-family: $font-family;
@@ -39,9 +42,9 @@ footer {
 img {
   max-width: 100%;
   display: block;
-  margin: 0 auto;
+  // margin: 0 auto;
   max-height: 75vh;
-  border-radius: $border-radius;
+  // border-radius: $border-radius;
 }
 
 blockquote {
@@ -156,3 +159,75 @@ code {
     grid-column: 1 / -1;
     }
 }
+
+.gallery {
+
+  .page_higlight {
+    color: red;
+  }
+  h1 {
+  padding: 0.37em;
+  border: 1px solid;
+  border-bottom: 9px solid;
+  margin: 0px;
+  }
+  main {
+    margin: 20px 0px;
+    border-radius: 4px;
+    div {
+      padding: 10px 20px;
+    }
+  }
+
+  .img_grid {
+    width: 100%;
+    display: grid;
+    grid-gap: .2em; 
+    grid-template-columns: 1fr 1fr;
+      @media (max-width: 900px) {
+      grid-template-columns: 1fr;
+
+  }
+
+  }
+  .img {
+    padding: 5px;      
+    img {
+      // border: 1px solid;
+      border-radius: none;
+    }
+  }
+  side {
+    // background: url(/assets/REDfloopdashes.svg);
+    padding: 30px;
+    div.overlay {
+      background: white;
+      padding: 10px;
+      width: 100%;
+      overflow: auto;
+      min-height: 100vh;
+    }
+    
+  }
+}
+
+// modifiers
+
+.desaturate {
+  backdrop-filter: grayscale(.9) brightness(3);
+  -webkit-backdrop-filter: grayscale(.9) brightness(3);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

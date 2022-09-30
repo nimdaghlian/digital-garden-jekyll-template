@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<content>
+        {% for post in site.documents %}
+          {% if post.collection == "notes"  %}
+            <a href="{{ post.url }}" target="_blank" title="{{ post.title }}"><img src="/images/talkingweed.gif"></a>
+          {% endif %}
+
+          {% if post.collection == "feeds"  %}
+            <a href="{{ post.url }}" target="_blank" title="{{ post.title }}">&#129716;</a>
+          {% endif %}
+        {% endfor %}
+</content>
+
+<script type="text/javascript">
+  
+
+</script>
