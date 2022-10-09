@@ -1,0 +1,15 @@
+{% assign hilight = include.hilight  %}
+{% if hilight And hilight != '' And hilight != nil %}
+	<style type="text/css">
+
+
+		{{include.parent}} .page_hilight {
+			color: {{ hilight }}  !important;
+		}
+		{{include.parent}} .page_hilight_bg {
+
+			background-color: {{ hilight }} !important;
+		}
+
+	</style>
+{% endif %}
