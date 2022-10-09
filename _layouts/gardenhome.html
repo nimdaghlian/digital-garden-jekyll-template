@@ -2,16 +2,18 @@
 layout: default
 ---
 
-<content>
-        {% for post in site.documents %}
+<content class="homepage">
+        {% random site.documents allposts %}
+        {% for post in allposts %}
           {% if post.collection == "notes"  %}
-            <a href="{{ post.url }}" target="_blank" title="{{ post.title }}"><img src="/images/talkingweed.gif"></a>
+            <a href="{{ post.url }}" target="_blank" title="{{ post.title }}" class="internal-link garden-sprite garden-grid"><i></i></a>
           {% endif %}
 
           {% if post.collection == "feeds"  %}
-            <a href="{{ post.url }}" target="_blank" title="{{ post.title }}">&#129716;</a>
+            <a href="{{ post.url }}" target="_blank" title='{{ post.title | truncatewords: 10 | slugify}}' class="garden-grid garden-feed {{ post.bucket | slugify }}"><i></i></a>
           {% endif %}
         {% endfor %}
+
 </content>
 
 <script type="text/javascript">

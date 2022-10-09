@@ -92,14 +92,20 @@ a {
     position: relative;
     top: -0.5em;
     font-size: 0.7em;
-    content: "↗";
+    // content: "↗";
     color: #aaaaaa;
+  }
+  &.internal-link {
+    background: transparent;
+    border: 0px;
   }
   &.internal-link:after,
   &.footnote:after,
   &.reversefootnote:after {
     content: "";
+    display: none;
   }
+
 }
 
 *:focus {
@@ -148,6 +154,68 @@ code {
   cursor: help;
 }
 
+body.home {
+ margin: 0px;
+ padding: 0px; 
+  .homepage {
+    display: grid;
+    grid-template-columns: repeat(25, 1fr);
+    width: 100vw;
+    background-color: #3abe41;
+    a {
+      &.internal-link {
+        border: none;
+        background: unset;
+      }
+      &.garden-grid {
+        width: 4vw;
+        height: 4vw;
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-image: url(/images/grass2.png);
+        &:hover {
+          padding-top: 7px;
+          padding-left: 4px;
+        }
+        i {
+          width: 2vw;
+          height: 2vw;
+          margin: 1vw;
+          padding: 1vw;
+          display: block;
+          background-size: contain;
+          background-repeat: no-repeat;
+
+        }
+
+      }
+      &.garden-sprite {
+        i {
+          background-image: url(/images/talkingweed.gif);
+          height: auto;
+          width: 75%;
+        }
+      }
+      &.garden-feed {
+        border: none;
+        padding: 0px 0px 0px;
+        &.the-morning-news i {
+          background-image: url(/images/tmn-plant.png);
+        }
+        &.astronomy-picture-of-the-day i {
+          background-image: url(/images/apod-plant.png);
+        }
+        // background: url(/images/grass.png) ;
+
+        img {
+          width: 100%;
+          height: auto;
+        }
+      }
+    }
+
+  }
+}
 .garden {
   h3 {
     grid-column: 1 / -1;
@@ -191,7 +259,14 @@ code {
 
   }
   .img {
-    padding: 5px;      
+    padding: 5px;
+    a.image-title {
+      display: block;
+      width: 100%;
+      font-family: monospace;
+      background-color: transparent;
+      border-color: transparent !important;
+    }      
     img {
       // border: 1px solid;
       border-radius: none;
@@ -200,6 +275,9 @@ code {
   side {
     // background: url(/assets/REDfloopdashes.svg);
     padding: 30px;
+    * {
+       font-family: monospace;
+    }
     div.overlay {
       background: white;
       padding: 10px;
@@ -219,7 +297,9 @@ code {
 
 }
 
-
+a.internal-link:after {
+  display: none !important;
+}
 
 
 

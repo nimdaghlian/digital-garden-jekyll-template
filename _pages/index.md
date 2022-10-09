@@ -2,6 +2,7 @@
 layout: gardenhome
 title: Home
 id: home
+bodyclass: home
 permalink: /
 ---
 

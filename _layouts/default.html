@@ -1,8 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
   {% include head.html %}
-  <body>
+  <body class="{{ page.bodyclass }}">
     <div class="wrapper">
+      <nav>
+        <a href="/" class="internal-link"><i class="las la-home page_hilight"></i></a>
+        <i class="las la-seedling page_hilight"></i>
+        <i class="las la-project-diagram page_hilight"></i>
+        <i class="las la-palette page_hilight"></i>
+        <i class="las la-rss page_hilight"></i>
+
+      </nav>
       <main>{{ content }}</main>
       <footer>{% include footer.html %}</footer>
     </div>

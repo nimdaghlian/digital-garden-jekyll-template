@@ -3,4 +3,4 @@ layout: this-dir-list
 title: everything here
 ---
 
-butts!
+This is the APOD directory listing

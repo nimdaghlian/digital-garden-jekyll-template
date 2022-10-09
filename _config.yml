@@ -4,7 +4,9 @@ exclude:
   - getfeeds.rb
   - util
   - _includes/notes_graph.json
-  - _feeds
+  # - _feeds
+  
+incremental: true
 
 # You may need to change the base URL depending on your deploy configuration.
 # Specifically, when using GitHub Pages, the baseurl should point to where GitHub
