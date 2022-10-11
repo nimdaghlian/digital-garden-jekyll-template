@@ -180,9 +180,8 @@ body.home {
         background-size: contain;
         background-repeat: no-repeat;
         background-image: url(/images/grass2.png);
-        &:hover {
-          padding-bottom: 7px;
-          padding-right: 4px;
+        &:hover i {
+          margin-top: -7px;
         }
         i {
           width: 2vw;
