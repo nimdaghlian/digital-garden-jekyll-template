@@ -73,5 +73,5 @@ galleries:
 
 Started work in earnest on a new visual theme. 
 * layout [bucket-gallery](https://github.com/thanims/digital-garden-jekyll-template/blob/master/_layouts/bucket-gallery.html) establishes visual styles
-	* text, background, highlight, border, and background svg color can be set by a single page var in frontmatter
+	* text, background, highlight, border, and background svg color can be set by a single page var in frontmatter -- [[everything-in-my-wifes-bag-two-days-after-we-got-married|example]]
 *  Made a new version of the home page using plant sprites for notes and feeds
