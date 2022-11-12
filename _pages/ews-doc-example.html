@@ -1,0 +1,454 @@
+---
+permalink: "/ews-example"
+---
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="">
+	<head>
+		<title>
+			Tutorial: Create a new risk inquiry
+		</title>
+<!-- ===================================
+SAMPLE STYLES FOR SUPERFICIAL
+CLARITY ONLY
+
+USED ONLY FOR AUTHORING CONVENIENCE
+
+****** DO NOT USE THIS CSS FOR PRODUCTION****** 
+
+=================================== -->
+
+		<style type="text/css">
+		/*<![CDATA[*/
+		body {
+		background-color: #fcfaf2;
+		font-family: 'Merriweather', serif;
+		margin: 75px;
+		width: 600px;
+		}
+
+		span.keyword {background-color:#cbf7f4;	border-radius: 0.25em;}
+		code {display:inline-block; width:100%;background-color:#000000;color:#FFFFFF; border-radius: 0.25em; white-space:pre; padding:0.5rem;}
+		code.inline {display:inline;background-color:#FFFFFF;color:#000000; border-radius: 0.25em; padding: 0.1rem;}
+
+		table.basic-table {width: 100%; border-spacing: 0px;border-collapse: separate;border-spacing: 1px;}
+		table.basic-table thead {text-align:left; background-color:#545454; font-size:1.1em; font-weight:bold; color:#ffffff;}
+		table.basic-table thead th {padding:0.5rem; white-space: nowrap;border: 0; box-shadow: 0 0 0 1px #545454;}
+		table.basic-table caption, table.column-header caption {align:top; color:#999999; font-size:.9em;}
+		table.basic-table tbody td {padding:0.5rem;}
+		table.basic-table thead tr:first-child th:first-child {border-top-left-radius: 0.25em;}
+		table.basic-table thead tr:last-child th:first-child {border-bottom-left-radius: 0.25em;}
+		table.basic-table thead tr:first-child th:last-child {border-top-right-radius: 0.25em;}
+		table.basic-table thead tr:last-child th:last-child {border-bottom-right-radius: 0.25em;}
+
+		table.column-header {width: 100%; border-spacing: 0px;border-collapse: separate;border-spacing: 1px;}
+		table.column-header thead {text-align:left; background-color:#545454; font-size:1.1em; font-weight:bold; color:#ffffff}
+		table.column-header thead th, table.column-header tbody th {padding:0.5rem; white-space: nowrap;border: 0; box-shadow: 0 0 0 1px #545454;}
+		table.column-header tbody::before {  height: 1em;display: table-row;content: '';}
+
+		table.column-header thead tr:first-child th:first-child {border-top-left-radius: 0.25em;}
+		table.column-header thead tr:last-child th:first-child {border-bottom-left-radius: 0.25em;}
+		table.column-header thead tr:first-child th:last-child {border-top-right-radius: 0.25em;}
+		table.column-header thead tr:last-child th:last-child {border-bottom-right-radius: 0.25em;}
+
+
+		table.column-header tbody tr:first-child th:first-child {border-top-left-radius: 0.25em;border-top-right-radius: 0.25em;}
+		table.column-header tbody tr:last-child th:first-child {border-bottom-left-radius: 0.25em;border-bottom-right-radius: 0.25em;}
+
+		table.column-header tbody td {padding:0.5rem;}
+
+
+		table.column-header {width: 100%; border-spacing: 0px;}
+		table tbody tr th {text-align:left; background-color:#545454; font-size:1.1em; font-weight:bold; color:#ffffff; white-space: nowrap;}
+
+
+		div.note {background-color:#f9d86c;	border-radius: 0.25em;padding: 0.5em;}
+		div.note::before {
+		background-color: #FFFFFF;
+		border-radius: 0.25em;
+		color: #000000;
+		content: "NOTE";
+		font-family: sans-serif;
+		font-size: 8pt;
+		font-variant: small-caps;
+		font-weight: 300;
+		letter-spacing: 0.1em;
+		line-height: 1;
+		margin: 0.25rem 0.5rem 0 0;
+		padding: 0.5em;
+		}  
+
+		ul.toc::before {
+		background-color: #FFFFFF;
+		border-radius: 0.25em;
+		color: #000000;
+		content: "TOC";
+		font-family: sans-serif;
+		font-size: 8pt;
+		font-variant: small-caps;
+		font-weight: 300;
+		letter-spacing: 0.1em;
+		line-height: 1;
+		margin: 0.25rem 0.5rem 0 0;
+		padding: 0.5em;
+		}  
+
+		ul.toc, ul.toc ul  {
+		list-style: none;
+
+		}
+
+		/*]]>*/
+		</style>
+	</head>
+	<body>
+<!-- ===================================
+[Paragraph level style: Headings]
+=================================== 
+
+At least 4 heading levels are needed, with distinctive
+styles that make the different heading levels easy to
+identify. -->
+
+		<h1>
+			Tutorial: Create a new risk inquiry
+		</h1>
+		<p>
+			This tutorial describes how you can create a new risk inquiry using the Predict New Account Risk solution as part of the Early Warning Platform.
+		</p>
+		<p>
+			The Predict New Account Risk solution provides access to 6 unique capabilities that can be used to retrieve a transparent view into a person’s current and prior deposit account history and behavior. Access to these capabilities is based on service bundles, with each bundle containing 2 to 6 Predict New Account Risk capabilities. For more information on the available Predict New Account Risk capabilities and what capabilities are included in each bundle, see <a href="#sample">Overview</a>
+		</p>
+		<div class="note">
+			<ul>
+				<li>The endpoint URL in this tutorial applies to the production environment.
+				</li>
+				<li>If you need generic information about how to code an HTTP request, see Basics of making HTTP requests.
+				</li>
+				<li>The API definition is configured as a downloadable OpenAPI 3.0 file. For more details about the EWS Decision Intelligence Identity Product API, see the API spec.
+				</li>
+			</ul>
+		</div>
+		<h2>
+			Contents
+		</h2>
+		<h3>
+			Heading level 3
+		</h3>
+		<h4>
+			Heading level 4
+		</h4>
+		<ul class='toc'>
+			<li>
+				<a href="#">Use case</a>
+			</li>
+			<li>
+				<a href="#">Prerequisites</a>
+			</li>
+			<li>
+				<a href="#">Creating a new risk inquiry</a>
+			</li>
+			<ul>
+				<li>
+					<a href="#">Request</a>
+				</li>
+				<ul>
+					<li>
+						<a href="#">Request path</a>
+					</li>
+					<li>
+						<a href="#">Request headers</a>
+					</li>
+					<li>
+						<a href="#">Request query parameters</a>
+					</li>
+					<li>
+						<a href="#">Request body</a>
+					</li>
+					<li>
+						<a href="#">Request example</a>
+					</li>
+				</ul>
+			</ul>
+			<ul>
+				<li>
+					<a href="#">Response</a>
+				</li>
+				<ul>
+					<li>
+						<a href="#">Response body</a>
+					</li>
+					<li>
+						<a href="#">Response example</a>
+					</li>
+					<li>
+						<a href="#">Using the response data</a>
+					</li>
+				</ul>
+			</ul>
+		</ul>
+		<h2>
+			Use case
+		</h2>
+		<p>
+			This tutorial covers a scenario where, as a staff member of a financial institution, you have a new customer who wants to open an account. You must determine whether you can do business with the customer, and if so, what account services and privileges you can offer them. To do this, you can use the Predict New Account Risk solution with the 49A1012026 bundle to retrieve the First-party Risk Score and Behavioral Attributes for the customer to help inform your decision.
+		</p>
+		<p>
+			The tutorial describes how to perform this task with the EWS Decision Intelligence Identity Product API.
+		</p>
+		<h2>
+			Prerequisites
+		</h2>
+		<p>
+			Before using the EWS Decision Intelligence Identity Product API, you must:
+		</p>
+		<ol>
+			<li>
+				<p>
+					<strong>Be onboarded as an Early Warning client.</strong><br />
+					During onboarding, you are assigned a client ID and define how Early Warning can access the public key of the public-private keypair you use to sign your JSON Web Token (JWT) Bearer tokens.
+				</p>
+				<p>
+					For information on how to be onboarded as an Early Warning client, see Getting onboarded.
+				</p>
+			</li>
+			<li>
+				<p>
+					<strong>Retrieve an access token.</strong><br />
+					The EWS Decision Intelligence Identity Product API endpoints are protected with <span class="keyword">OAuth 2.0 JWT Bearer grant</span>. To use the API, you must create a JWT Bearer token and use it to get an access token.
+				</p>
+				<p>
+					For detailed instructions on how to create a JWT Bearer token and get an access token, see <a href="#">Authentication guide</a>.
+				</p>
+			</li>
+		</ol>
+		<h2>
+			Creating a new risk inquiry
+		</h2>
+		<p>
+			This section describes how to use an HTTP POST request to create a new risk inquiry.
+		</p>
+		<h3>
+			Request
+		</h3>
+		<p>
+			Your HTTP request to the EWS Decision Intelligence Identity Product API must contain a path parameter, headers, and a request body.
+		</p>
+		<h4>
+			Request path
+		</h4>
+		<p>
+			Create and send a request using the following path:
+		</p>
+		<p>
+			<code>POST https://platform.earlywarning.com/predict-new-acct-risk/49A1012026/v1</code>
+		</p>
+		<div class="note">
+			<p>
+				The path contains the number of your bundle (in this case, <code class="inline">49A1012026</code>). There are different endpoints available for different bundles.
+			</p>
+		</div>
+		<p>
+			The request must contain the path parameters shown in the following table.
+		</p>
+		<table class="basic-table">
+			<!-- Use the style class to generate "Table:" text at the beginning
+       of the caption. -->
+			<caption>
+				Table: Creating a new risk inquiry – Request path parameters
+			</caption>
+			<thead>
+				<!-- The table header row must be optional. -->
+				<tr>
+					<th>
+						Header name
+					</th>
+					<th>
+						Description
+					</th>
+					<th>
+						Values
+					</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>
+						<code class="inline">Authorization</code>
+					</td>
+					<td>
+						Authorization security header
+					</td>
+					<td>
+						<code class="inline">Bearer &lt;Access token&gt;</code>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		<p>
+			The request also accepts optional headers. For details on all available headers, see the <a href="#">API spec</a>.
+		</p>
+		<h4>
+			Request query parameters
+		</h4>
+		<p>
+			The request accepts the query parameters shown in the following table.
+		</p><!-- The header-column-table style class defines a table that has
+       a header column instead of or in addition to a header row. -->
+		<table class="column-header">
+			<caption>
+				Caption for table with a header column
+			</caption>
+			<thead>
+				<!-- The table header row must be optional. -->
+				<tr>
+					<th>
+						Row header 1
+					</th>
+					<th>
+						Row header 2
+					</th>
+					<th>
+						Row header 3
+					</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<th>
+						Column header row 1
+					</th>
+					<td>
+						Row text 1
+					</td>
+					<td>
+						Row text 2
+					</td>
+				</tr>
+				<tr>
+					<th>
+						Column header row 2
+					</th>
+					<td>
+						Row text 1
+					</td>
+					<td>
+						Row text 2
+					</td>
+				</tr>
+				<tr>
+					<th>
+						Column header row 3
+					</th>
+					<td>
+						Row text 1
+					</td>
+					<td>
+						Row text 2
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		<h4>
+			Request example
+		</h4>
+		<p>
+			The following example illustrates the request using raw HTTP code:
+		</p>
+		<p>
+			<code>POST /predict-new-acct-risk/YOUR_BUNDLE/v1 HTTP/1.1 Host: platform.earlywarning.com Content-Type: application/json Accept: application/json Authorization: Bearer YOUR_ACCESS_TOKEN Content-Length: 517 { "clientId": "Authentify_Test", "clientTransactionId": 123456788, "inquiryReason": "bankAccountOpening", "data": { "user": { "name": { "first": "Minnie", "last": "Mouse" }, "dateOfBirth": 19900314, "address": { "streetAddress": "9454 WASHINGTON LOOP", "city": "GOULDSBORO", "region": "PA", "postalCode": 18424 }, "federalId": { "type": "ssn", "value": 933887700 } } } }</code>
+		</p>
+		<h3>
+			Response
+		</h3>
+		<p>
+			If your request succeeds, you receive an HTTP 200 OK response.
+		</p>
+		<p>
+			If your request fails, you receive an error response. For more information on the possible API errors, see <a href="#">Error handling</a>.
+		</p>
+		<h4>
+			Response body
+		</h4>
+		<table class="basic-table">
+			<caption>
+				Table: Create a new risk inquiry – Response body
+			</caption>
+			<thead>
+				<!-- The table header row must be optional. -->
+				<tr>
+					<th>
+						Field
+					</th>
+					<th>
+						Description
+					</th>
+					<th>
+						Data Type
+					</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>
+						<code class="inline">ewSID</code>
+					</td>
+					<td>
+						<p>
+							Globally unique session ID, as generated by Early Warning Services (EWS).
+						</p>
+						<p>
+							The session ID ties all the information about the session together and can be used by client staff when submitting support requests to Early Warning.
+						</p>
+						<p>
+							The value can contain the following characters:
+						</p>
+						<ul>
+							<li>
+								<code class="inline">a-f</code>
+							</li>
+							<li>
+								<code class="inline">0-9</code>
+							</li>
+							<li>
+								<code class="inline">'-'</code>
+							</li>
+						</ul>
+					</td>
+					<td>
+						String
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		
+<!-- ===================================
+[Paragraph level style: Notes]
+=================================== 
+
+The note style class defines a note block consisting 
+of a title, icon, and note content.
+
+Use the style class to generate a visible border,
+a title text ("Note"), and an icon (something related
+to an exclamation point is standard practice). -->
+
+		<div class="note">
+			<p>
+				Note content, which can include p, ol, ul, img, or table tags.
+			</p>
+		</div>
+		
+<!-- ===================================
+[Character level style: Keyword] 
+=================================== -->
+<!-- The keyword style class is used to represent a field name 
+or value to differentiate the text related to API code 
+from the standard text style. -->
+<!-- Use the style class to define a distinctive text color, 
+background color, and/or monospace font. -->
+		<p>
+			Texts with a <span class="keyword">keyword</span> in the middle
+		</p>
+	</body>
+</html>
