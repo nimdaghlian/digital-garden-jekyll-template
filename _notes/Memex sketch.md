@@ -9,7 +9,7 @@
 * [ ] Open-sourceable if someone else wants to run it
 
 
-# Octothorpes
+---
 
 * I want to write documents in plaintext or markdown with minimal YAML frontmatter.
 * Only title is required, the rest of the frontmatter is arbitrary
@@ -24,4 +24,4 @@
 	* Backlinks to documents should accept aliases
 	* Backlinks can link to octothorpes
 * I want to be able to create Proxy Documents for octothorpes
-	* Backlinks to a Proxy Document will create 
+	* Local backlinks to a Proxy Document will create document-level octothorpes for the term assigned to the Proxy

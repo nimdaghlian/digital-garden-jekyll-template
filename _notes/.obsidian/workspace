@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "tags/books.md",
-            "mode": "source"
+            "file": "octothorpethoughts.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tags/books.md",
+                "file": "octothorpethoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +89,15 @@
   },
   "active": "8f4bb7e67586ed93",
   "lastOpenFiles": [
+    "octothorpethoughts.md",
+    "Memex sketch.md",
+    "synths.md",
     "tags/books.md",
     "me.md",
     "friends/johnjames.md",
     "friends/Clamber.md",
     "the-conceptual-labor-book.md",
     "adventures-a-and-n.md",
-    "friends/Abe.md",
-    "tags/Grapefruits Sometimes Art Email.md",
-    "Martha.md",
-    "metagardening.md"
+    "friends/Abe.md"
   ]
 }
