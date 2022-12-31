@@ -23,5 +23,12 @@ I started practicing Taiji for about 17 years ago, and I've been painting for ro
 
 "Start at chapter one -- maintain the up and down."
 
+* What is chapter one in painting?
+* probably see clearly?
+* whatever it is, Ithink this whole process gets us to wuji
+
 ## Spell it T-a-i-j-i. But that's not what we're doing anyway
 
+as soon as you reach resolution, you want to touch it and unresolve it
+
+time erases all your taiji work. it does that for all art too, it just takes longer

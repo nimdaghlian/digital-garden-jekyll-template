@@ -57,11 +57,12 @@ We wrote version 1 in our heads, so why not make a spec for Version 2 before we 
 # Octothorpes
 
 Octothorpes is a lightweight protocol for creating bidirectional links and event streams between documents, regardless of whether the documents are accessible via local or networked protocols. The octothorpe ecosystem consists of:
-	* documents
-		* content
-		* yaml frontmatter
-	* an octothorpes parser
-	* an octothorpes server
+
+* documents
+	* content
+	* yaml frontmatter
+* an octothorpes parser
+* an octothorpes server
 
 Write **documents** in plaintext or markdown, describe them with basic YAML frontmatter.
 Run an octothorpes parser to create meaningful records that describe the documents and their relationships to other records.
