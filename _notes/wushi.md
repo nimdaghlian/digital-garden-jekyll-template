@@ -4,7 +4,7 @@ title: Wushi
 permalink: /wushi
 ---
 
-Lacking by the elegance and refinement of sushi, free of the "good recipies" of tapas, and void of the cachet of nouvelle-cuisine, Wushi is distinguished from other small-plate traditions by placing priority on the question “what do I want to put in my mouth” rather than the question “what should I put in my mouth”.  
+Lacking by the elegance and refinement of sushi, free of the "good recipes" of tapas, and void of the cachet of nouvelle-cuisine, Wushi is distinguished from other small-plate traditions by placing priority on the question “what do I want to put in my mouth” rather than the question “what should I put in my mouth”.  
 
 Accommodating all traditions, ingredients, and opinions of what is edible, Wushi is founded **4 Basic principles** which are applied to a system of classification for maximum tastiness results. 
 
