@@ -1,3 +1,6 @@
+---
+---
+
 12.30.22
 
 ## However, after spending time with this discomfort, I've accepted the situation and realized it's simpler than I thought.

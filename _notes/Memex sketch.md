@@ -1,3 +1,6 @@
+---
+---
+
 # Bloggarden
 
 * [ ] Garden view where articles appear as plant sprites
