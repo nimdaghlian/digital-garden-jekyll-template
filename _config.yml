@@ -47,7 +47,7 @@ collections:
     permalink: /:path
   galleries:
     output: true
-    permalink: /:path
+    permalink: /:title
 
 
 

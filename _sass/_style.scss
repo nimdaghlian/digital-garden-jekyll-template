@@ -18,11 +18,10 @@ body {
   padding: 4vh 6vw;
   overflow-x: hidden;
   color: $color-text;
-  font-size: 1rem;
   max-width: 63em;
 
   @media (min-width: 820px) {
-    font-size: 1.2rem;
+    font-size: 14px;
   }
 }
 
@@ -77,7 +76,7 @@ h6 {
   margin-bottom: 0;
   padding-bottom: 0;
 }
-
+/* 
 a {
   transition: background 300ms;
   padding: 0 0.1em;
@@ -112,7 +111,7 @@ a {
   background: #ffe8bc !important;
   color: black !important;
 }
-
+*/
 nav {
   margin: 1em 0 3em;
 }
@@ -245,6 +244,8 @@ body.home {
 
 .gallery {
 
+  font-size: 14px;
+
   .page_higlight {
     color: red;
   }
@@ -260,6 +261,19 @@ body.home {
     div {
       padding: 10px 20px;
     }
+
+  content {
+    .ui.cards {
+      .card {
+        a {
+          font-size: .7em;
+        }
+        .meta :last-child {
+          font-size: .5em;
+        } 
+      }
+    }
+  }
   }
 
   .img_grid {

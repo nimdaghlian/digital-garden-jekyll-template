@@ -1,28 +1,54 @@
----
-layout: default
-metasomething:
-metaanotherthing:
----
-{% include floopdashes.html stroke = page.color  %}
-{% include page_hilight.html hilight = page.color parent="body" %}
-<article>
 
-  <div id="notes-entry-container" class="gallery">
 
-    <content>
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+  {% include floopdashes.html stroke = page.color  %}
+  {% include page_hilight.html hilight = page.color parent="body" %}
+
+  <body class="{{ page.bodyclass }}">
+    <div class="ui container">
+      <nav>
+        <a href="/" class="internal-link"><i class="las la-home page_hilight"></i></a>
+        <a href="/metagardening" class="internal-link"><i class="las la-seedling page_hilight"></i></a>
+        <a href="/notecloud" class="internal-link"><i class="las la-project-diagram page_hilight"></i></a>
+        <a href="http://nimdaghlian.com/art" class="internal-link"><i class="las la-palette page_hilight"></i></a>
+        <i class="las la-rss page_hilight" style="display: none;"></i>
+
+      </nav>
+      
+      <main class="ui grid two column stackable gallery">
+
+      <content class="ui twelve wide column">
+
+
       <h1 class="page_hilight">{{ page.title }}</h1>
 
       <main class="page_hilight_bg">
         <div class="desaturate content page_hilight">
         {{ content }}
       </main>
-      <div class="img_grid">
+      <div class="ui cards grid four column stackable">
       {% assign g = page.gallery %}
         {% for post in site.galleries %}
           {% if post.gallery contains g %}
-          <div class="img" >
-            <a href="{{ post.url }}" target="_blank" title="{{ post.title }}" class="internal-link image-title"><caption>{{ post.title }}</caption></a>
-            <a href="{{ post.url }}" target="_blank" title="{{ post.title }}" class="internal-link"><img class="page_hilight" src="/{{ post.link }}"></a>
+          <div class="card block" >
+            <div class="small image">
+              <a href="{{ post.url }}" target="_blank" title="{{ post.title }}" class="ui small image"><img class="page_hilight" src="/{{ post.link }}"></a>
+            </div>
+            <div>              
+              <span class="date">
+                <i class="las la-calendar"></i> {{ post.dateadded | date: "%B %-d, %Y" }}
+                </span>
+            </div>
+            <div class="content">
+              <a href="{{ post.url }}" target="_blank" title="{{ post.title }}" class="caption">{{ post.title }}</a>
+              {% if post.excerpt  %}
+              <div class="description">{{ post.excerpt }}</div>
+              {% endif %}
+
+              
+            </div>
           </div>
           {% endif %}
         {% endfor %}
@@ -31,7 +57,7 @@ metaanotherthing:
       </div>
 
     </content>
-    <side style="font-size: 0.9em;">
+    <side style="font-size: 0.9em;" class="four wide column">
       <div class="overlay page_hilight">
 
 
@@ -60,8 +86,13 @@ metaanotherthing:
       </div>
 
     </side>
-  </div>
 
-</article>
 
 <hr>
+
+</main>
+      <footer>{% include footer.html %}</footer>
+    </div>
+
+  </body>
+</html>

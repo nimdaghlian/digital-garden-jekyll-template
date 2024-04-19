@@ -1,0 +1,4 @@
+---
+---
+
+Most of us know that JPEGs are usually smaller than TIFFs. If you download music from Bandcamp or Apple Music, you are offered the option of lossless files. These are just a couple of the common ways we encounter the idea that there are different ways to compress information into a package you can more easily transmit from one person to another. Some preserve all the information, and some take calculated shortcuts and leave some hopefully-insignificant things out. Computers are good at doing things exactly the same way over and over, so they can re-compile something that was compressed losslessly into exactly what it started out as. Humans aren't. You could think of us as lossy compilers. If we think of art as a form of compressing something about being human so it can be transmission from one human to another, we really shouldn't expect it to ever be a lossless compression. 
